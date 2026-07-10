@@ -5,13 +5,19 @@
     "stage": "passed",
     "lastUpdated": "2026-07-07",
     "lawPassed": "2021, under An Act To Support and Improve Municipal Recycling Programs and Save Taxpayer Money (LD 1541).",
-    "status": "Implementation is underway; Maine updated the law in 2025, expects producer registration/data reporting in May 2026 and first annual payments in September 2027 for 2026 packaging. Stewardship organization had not yet been selected as of late June 2026; state issued an RFP on June 15, 2026.",
+    "status": "Implementation is underway; Maine updated the law in 2025, expects producer registration/data reporting in May 2026 and first annual payments in September 2027 for 2026 packaging.",
     "milestones": [
-      "Producers must prepare for fees tied to the volume and type of packaging introduced into Maine, which fund municipal recycling programs."
+      "Fees tied to volume/type of packaging. SO not yet selected as of mid-2026; RFP issued June 15, 2026."
     ],
     "sources": [
-      { "label": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility" },
-      { "label": "White & Case", "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement" }
+      {
+        "label": "Faegre Drinker",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility"
+      },
+      {
+        "label": "White & Case",
+        "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement"
+      }
     ]
   },
   {
@@ -22,12 +28,59 @@
     "lawPassed": "2025, under SB 5284 (the Recycling Reform Act, or WRAP Act).",
     "status": "Rulemaking, program design and early implementation underway.",
     "milestones": [
-      "Producer participation required through a PRO by July 1, 2026.",
-      "CAA must develop a program plan for producers by October 1, 2028."
+      "PRO appointed by Jan 1 2026; registration with Ecology by Mar 1 2026; supply report due May 31 2026; producer participation required by July 1 2026."
     ],
     "sources": [
-      { "label": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility" },
-      { "label": "White & Case", "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement" }
+      {
+        "label": "Faegre Drinker",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility"
+      },
+      {
+        "label": "White & Case",
+        "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement"
+      }
+    ]
+  },
+  {
+    "abbr": "OR",
+    "name": "Oregon",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2021, under the Plastic Pollution and Recycling Modernization Act (SB 582).",
+    "status": "Program rules finalized; producer registration required and fees underway.",
+    "milestones": [
+      "Fees by material/recyclability/volume. Feb 2026: federal injunction for NAW members; trial July 13, 2026. DEQ published ~300 non-compliant producers Apr 9, 2026, fines up to $25k/day."
+    ],
+    "sources": [
+      {
+        "label": "Faegre Drinker",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/4/trade-group-lawsuits-challenge-extended-producer-responsibility-epr-laws-in-oregon-and-colorado"
+      },
+      {
+        "label": "White & Case",
+        "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement"
+      }
+    ]
+  },
+  {
+    "abbr": "MD",
+    "name": "Maryland",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2025, under SB 901 (the Packaging and Paper Products \u2013 Producer Responsibility Plans Act).",
+    "status": "Initial implementation and rulemaking underway.",
+    "milestones": [
+      "CAA registration by July 1 2026; simplified supply report (2025 data) due May 31 2026; covered materials list by July 1 2027; full plans due July 1 2028."
+    ],
+    "sources": [
+      {
+        "label": "Mayer Brown",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
+      },
+      {
+        "label": "Faegre Drinker",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility"
+      }
     ]
   },
   {
@@ -36,13 +89,49 @@
     "stage": "passed",
     "lastUpdated": "2026-07-07",
     "lawPassed": "2022, under the Plastic Pollution Prevention and Packaging Producer Responsibility Act (SB 54).",
-    "status": "Aggressive timeline with ongoing rulemaking implementation underway. Permanent regulations became effective May 1, 2026; enforcement and initial registration obligations began June 1, 2026.",
+    "status": "Aggressive timeline with ongoing rulemaking implementation underway.",
     "milestones": [
-      "By 2032, California requires 25% source reduction of plastic-covered material and 65% recycling of plastic-covered material.",
-      "Mandatory PRO participation by 2027."
+      "25% source reduction and 65% recycling of plastic by 2032; PRO participation by 2027. Permanent regs finalized May 1 2026. Facing state and federal (17 AGs + NAW) legal challenges; no injunction granted as of writing."
     ],
     "sources": [
-      { "label": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility" }
+      {
+        "label": "Faegre Drinker",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility"
+      }
+    ]
+  },
+  {
+    "abbr": "CO",
+    "name": "Colorado",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2022, under the Producer Responsibility Program for Statewide Recycling Act (HB22-1355).",
+    "status": "CAA appointed as PRO in 2023; mandatory participation since July 1, 2025; annual dues began January 2026.",
+    "milestones": [
+      "Producers began reporting 2025. Mar 2026: lawsuit challenging a second PRO (LPMA) for petroleum/automotive products - not bagging-relevant."
+    ],
+    "sources": [
+      {
+        "label": "Faegre Drinker",
+        "url": "https://www.faegredrinker.com/en/insights/publications/2026/4/trade-group-lawsuits-challenge-extended-producer-responsibility-epr-laws-in-oregon-and-colorado"
+      }
+    ]
+  },
+  {
+    "abbr": "MN",
+    "name": "Minnesota",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2024, under the Packaging Waste and Cost Reduction Act (HF 3911/SF 3877).",
+    "status": "Early implementation phase.",
+    "milestones": [
+      "Limited registration 2025-2026; PRO operations begin 2027-2028; full requirements (reusable/recyclable/compostable) by 2032."
+    ],
+    "sources": [
+      {
+        "label": "Mayer Brown",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
+      }
     ]
   },
   {
@@ -50,13 +139,162 @@
     "name": "Illinois",
     "stage": "pending",
     "lastUpdated": "2026-07-07",
-    "lawPassed": "Not enacted. HB4064 introduced May 21, 2025; remains in proposal stage.",
-    "status": "Separately, a statewide recycling needs assessment is underway; findings due December 1, 2026.",
+    "lawPassed": "Not enacted. HB4064 (Extended Producer Responsibility and Recycling Refund Act) introduced May 21, 2025; remains in proposal stage.",
+    "status": "Under active consideration as of Jan. 2026; a separate needs-assessment law (PA 103-0383) has findings due Dec. 1, 2026.",
     "milestones": [
-      "Would require producers to join a PRO with fee modulation to incentivize recyclable/reusable/post-consumer content packaging."
+      "Would require PRO membership with fee modulation favoring recyclable/reusable/PCR content."
     ],
     "sources": [
-      { "label": "Compliance & Risks", "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/" }
+      {
+        "label": "Compliance & Risks",
+        "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
+      },
+      {
+        "label": "Sustainable Packaging Coalition",
+        "url": "https://epr.sustainablepackaging.org/policies"
+      }
+    ]
+  },
+  {
+    "abbr": "NJ",
+    "name": "New Jersey",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "S3398 (2024-2025 session) died with session end Jan 13, 2026. Reintroduced in 2026-2027 session as S614 and S673 per secondary source; not yet confirmed against official cross-reference.",
+    "status": "S3398 stalled in Senate Budget & Appropriations and died with the session. Compliance & Risks (secondary source) identifies S614/S673 as reintroductions of the same proposal; not confirmed via an official legislature cross-reference. Official S673 text now on file.",
+    "milestones": [
+      "Would establish EPR program requiring PRO membership or an approved individual plan; 50% source reduction over 10 years proposed in prior version."
+    ],
+    "sources": [
+      {
+        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
+      },
+      {
+        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "url": "https://www.njleg.state.nj.us/bill-search/2024/S3398"
+      },
+      {
+        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "url": "https://pub.njleg.gov/Bills/2026/S1000/673_I1.HTM"
+      },
+      {
+        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "url": "https://legiscan.com/NJ/bill/S673/2026"
+      }
+    ]
+  },
+  {
+    "abbr": "NY",
+    "name": "New York",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "Not enacted. Packaging Reduction and Recycling Infrastructure Act (SB1464/AB5062, per Sustainable Packaging Coalition tracker).",
+    "status": "SB1464 shown as introduced Jan. 7, 2026 on the SPC tracker; per Compliance & Risks, still under active consideration as of early 2026.",
+    "milestones": [
+      "No milestones yet; would need Assembly passage to advance."
+    ],
+    "sources": [
+      {
+        "label": "Sustainable Packaging Coalition",
+        "url": "https://epr.sustainablepackaging.org/policies"
+      },
+      {
+        "label": "Compliance & Risks",
+        "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
+      }
+    ]
+  },
+  {
+    "abbr": "HI",
+    "name": "Hawaii",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "Not enacted. HB750 signed into law July 2025 (per Compliance & Risks; earlier note said May 27 - date not fully reconciled).",
+    "status": "Requires a statewide needs assessment as a precursor to a potential EPR program.",
+    "milestones": [
+      "No producer obligations yet."
+    ],
+    "sources": [
+      {
+        "label": "Compliance & Risks",
+        "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
+      }
+    ]
+  },
+  {
+    "abbr": "NC",
+    "name": "North Carolina",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "Not enacted. H882 filed 2025; North Carolina named among states considering EPR legislation.",
+    "status": "Listed as pending/under consideration; no further detail found on committee status in this search pass.",
+    "milestones": [
+      "No milestones yet."
+    ],
+    "sources": [
+      {
+        "label": "Mayer Brown",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
+      },
+      {
+        "label": "Sustainable Packaging Coalition",
+        "url": "https://epr.sustainablepackaging.org/policies"
+      }
+    ]
+  },
+  {
+    "abbr": "MA",
+    "name": "Massachusetts",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "Not enacted. SB571 (also referenced as S.571/H.926).",
+    "status": "Listed as still under active consideration as of early 2026.",
+    "milestones": [
+      "No milestones yet."
+    ],
+    "sources": [
+      {
+        "label": "Compliance & Risks",
+        "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
+      }
+    ]
+  },
+  {
+    "abbr": "RI",
+    "name": "Rhode Island",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "Not enacted. HB6207 enacted June 2025 (needs assessment).",
+    "status": "BILL NUMBER CORRECTION: prior note referenced 'SB7911' - research finds no such bill; the actual bill is H7911 (House, not Senate). H7910 and S2656 are House/Senate companions creating the same EPR program; both held in committee amid infrastructure/cost concerns.",
+    "milestones": [
+      "No milestones yet; all three bills unreviewed for ACCEPT/REJECT."
+    ],
+    "sources": [
+      {
+        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
+      },
+      {
+        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "url": "https://epr.sustainablepackaging.org/policies"
+      },
+      {
+        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7910.htm"
+      },
+      {
+        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "url": "https://legiscan.com/RI/bill/H7910/2026"
+      },
+      {
+        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "url": "https://legiscan.com/RI/bill/H7911/2026"
+      },
+      {
+        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "url": "https://legiscan.com/RI/bill/S2656/2026"
+      }
     ]
   }
 ]
