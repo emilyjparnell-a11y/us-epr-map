@@ -160,26 +160,22 @@
     "name": "New Jersey",
     "stage": "pending",
     "lastUpdated": "2026-07-07",
-    "lawPassed": "S3398 (2024-2025 session) died with session end Jan 13, 2026. Reintroduced in 2026-2027 session as S614 and S673 per secondary source; not yet confirmed against official cross-reference.",
-    "status": "S3398 stalled in Senate Budget & Appropriations and died with the session. Compliance & Risks (secondary source) identifies S614/S673 as reintroductions of the same proposal; not confirmed via an official legislature cross-reference. Official S673 text now on file.",
+    "lawPassed": "S3398 (2024-2025 session) died with the session on Jan 13, 2026. Reintroduced in the 2026-2027 session as S614 and S673.",
+    "status": "S614 and S673 would establish an Extended Producer Responsibility program requiring PRO membership or an approved individual plan for packaging and paper products.",
     "milestones": [
-      "Would establish EPR program requiring PRO membership or an approved individual plan; 50% source reduction over 10 years proposed in prior version."
+      "50% source reduction over 10 years proposed in the prior (S3398) version; not yet confirmed in the reintroduced bills."
     ],
     "sources": [
       {
-        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "label": "Compliance & Risks",
         "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
       },
       {
-        "label": "Compliance & Risks / NJ Legislature / LegiScan",
-        "url": "https://www.njleg.state.nj.us/bill-search/2024/S3398"
-      },
-      {
-        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "label": "NJ Legislature",
         "url": "https://pub.njleg.gov/Bills/2026/S1000/673_I1.HTM"
       },
       {
-        "label": "Compliance & Risks / NJ Legislature / LegiScan",
+        "label": "LegiScan",
         "url": "https://legiscan.com/NJ/bill/S673/2026"
       }
     ]
@@ -266,33 +262,29 @@
     "stage": "pending",
     "lastUpdated": "2026-07-07",
     "lawPassed": "Not enacted. HB6207 enacted June 2025 (needs assessment).",
-    "status": "BILL NUMBER CORRECTION: prior note referenced 'SB7911' - research finds no such bill; the actual bill is H7911 (House, not Senate). H7910 and S2656 are House/Senate companions creating the same EPR program; both held in committee amid infrastructure/cost concerns.",
+    "status": "H7910 and S2656 are House/Senate companion bills that would establish an EPR program for packaging and paper products. H7911 is a separate, broader bill combining EPR with beverage-container recycling. All three bills are currently held in committee amid infrastructure and cost concerns.",
     "milestones": [
-      "No milestones yet; all three bills unreviewed for ACCEPT/REJECT."
+      "No milestones yet; all three bills pending committee action."
     ],
     "sources": [
       {
-        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "label": "Compliance & Risks",
         "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/"
       },
       {
-        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
-        "url": "https://epr.sustainablepackaging.org/policies"
-      },
-      {
-        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "label": "RI Legislature",
         "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7910.htm"
       },
       {
-        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "label": "LegiScan (H7910)",
         "url": "https://legiscan.com/RI/bill/H7910/2026"
       },
       {
-        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "label": "LegiScan (H7911)",
         "url": "https://legiscan.com/RI/bill/H7911/2026"
       },
       {
-        "label": "Compliance & Risks / Sustainable Packaging Coalition / RI Legislature / LegiScan",
+        "label": "LegiScan (S2656)",
         "url": "https://legiscan.com/RI/bill/S2656/2026"
       }
     ]
