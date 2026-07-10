@@ -1,0 +1,62 @@
+[
+  {
+    "abbr": "ME",
+    "name": "Maine",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2021, under An Act To Support and Improve Municipal Recycling Programs and Save Taxpayer Money (LD 1541).",
+    "status": "Implementation is underway; Maine updated the law in 2025, expects producer registration/data reporting in May 2026 and first annual payments in September 2027 for 2026 packaging. Stewardship organization had not yet been selected as of late June 2026; state issued an RFP on June 15, 2026.",
+    "milestones": [
+      "Producers must prepare for fees tied to the volume and type of packaging introduced into Maine, which fund municipal recycling programs."
+    ],
+    "sources": [
+      { "label": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility" },
+      { "label": "White & Case", "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement" }
+    ]
+  },
+  {
+    "abbr": "WA",
+    "name": "Washington",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2025, under SB 5284 (the Recycling Reform Act, or WRAP Act).",
+    "status": "Rulemaking, program design and early implementation underway.",
+    "milestones": [
+      "Producer participation required through a PRO by July 1, 2026.",
+      "CAA must develop a program plan for producers by October 1, 2028."
+    ],
+    "sources": [
+      { "label": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility" },
+      { "label": "White & Case", "url": "https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement" }
+    ]
+  },
+  {
+    "abbr": "CA",
+    "name": "California",
+    "stage": "passed",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "2022, under the Plastic Pollution Prevention and Packaging Producer Responsibility Act (SB 54).",
+    "status": "Aggressive timeline with ongoing rulemaking implementation underway. Permanent regulations became effective May 1, 2026; enforcement and initial registration obligations began June 1, 2026.",
+    "milestones": [
+      "By 2032, California requires 25% source reduction of plastic-covered material and 65% recycling of plastic-covered material.",
+      "Mandatory PRO participation by 2027."
+    ],
+    "sources": [
+      { "label": "Faegre Drinker", "url": "https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility" }
+    ]
+  },
+  {
+    "abbr": "IL",
+    "name": "Illinois",
+    "stage": "pending",
+    "lastUpdated": "2026-07-07",
+    "lawPassed": "Not enacted. HB4064 introduced May 21, 2025; remains in proposal stage.",
+    "status": "Separately, a statewide recycling needs assessment is underway; findings due December 1, 2026.",
+    "milestones": [
+      "Would require producers to join a PRO with fee modulation to incentivize recyclable/reusable/post-consumer content packaging."
+    ],
+    "sources": [
+      { "label": "Compliance & Risks", "url": "https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/" }
+    ]
+  }
+]
