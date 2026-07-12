@@ -30,6 +30,9 @@ jobs:
         run: |
           git config user.name "epr-bot"
           git config user.email "epr-bot@users.noreply.github.com"
-          git add suggested_updates.csv detection_summary.txt
+          git add detection_summary.txt
+          if [ -f suggested_updates.csv ]; then
+            git add suggested_updates.csv
+          fi
           git diff --quiet --cached || git commit -m "Monthly EPR detection scan"
           git push
