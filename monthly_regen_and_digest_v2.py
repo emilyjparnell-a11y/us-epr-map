@@ -35,9 +35,10 @@ DIGEST_OUTPUT_PATH = "monthly_digest_email.txt"
 DAYS_LOOKBACK = 30
 
 DISCLAIMER = (
-    "Data subject to change as legislation develops. Check state legislation "
-    "for the most up-to-date information. This map reflects legislative "
-    "research compiled from public sources and is provided for informational "
+  "Data subject to change as legislation develops. Check state legislation "
+    "and Producer Responsibility Organizations (PROs) for the most "
+    "up-to-date information. This map reflects legislative research "
+    "compiled from public sources and is provided for informational "
     "purposes only."
 )
 
@@ -112,17 +113,31 @@ def build_digest_email(changed_rows):
         return None
 
     bullets = []
+    footnotes = []
+    footnote_num = 1
+
     for r in changed_rows:
         state = r.get("State", "")
         detail = (r.get("Status Detail") or "").strip()
         milestone = (r.get("Milestones") or "").strip()
         takeaway = milestone if milestone else detail
-        bullets.append(f"- {state}: {takeaway}")
+
+        sources = split_sources(r.get("Source Name"), r.get("Source URL"))
+        markers = []
+        for s in sources:
+            markers.append(f"[{footnote_num}]")
+            footnotes.append(f"[{footnote_num}] {s['label']}: {s['url']}")
+            footnote_num += 1
+
+        marker_str = " " + "".join(markers) if markers else ""
+        bullets.append(f"- {state}: {takeaway}{marker_str}")
 
     body = (
         "Subject: US EPR Packaging Update - Monthly Digest\n\n"
         "Here's what changed in the last 30 days:\n\n"
         + "\n".join(bullets)
+        + "\n\nSources:\n"
+        + "\n".join(footnotes)
         + "\n\n"
         + DISCLAIMER
         + "\n\n(Draft only - review and edit before sending to customers.)"
