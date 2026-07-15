@@ -12,8 +12,9 @@ Outputs:
                                         "dataUrl" prop. Commit this file
                                         somewhere with a stable public URL (e.g.
                                         GitHub Pages, or raw.githubusercontent.com).
-    outputs/monthly_digest_email.txt - draft email copy, sent to your inbox for
-                                        review/approval before you send it on.
+    outputs/monthly_digest_email.html - draft email copy (simple HTML, links
+                                        open in a new window), for your review/
+                                        approval before you send it on.
 
 This script does NOT auto-send anything and does NOT touch the map's HTML/CSS.
 A human reviews and sends the digest email; the map just re-fetches
@@ -31,7 +32,7 @@ import os
 # without changes.
 MASTER_CSV = "master_matrix.csv"
 DATA_OUTPUT_PATH = "epr-data.json"
-DIGEST_OUTPUT_PATH = "monthly_digest_email.txt"
+DIGEST_OUTPUT_PATH = "monthly_digest_email.html"
 DAYS_LOOKBACK = 30
 
 DISCLAIMER = (
@@ -125,22 +126,26 @@ def build_digest_email(changed_rows):
         sources = split_sources(r.get("Source Name"), r.get("Source URL"))
         markers = []
         for s in sources:
-            markers.append(f"[{footnote_num}]")
-            footnotes.append(f"[{footnote_num}] {s['label']}: {s['url']}")
+            markers.append(f'<sup><a href="{s["url"]}" target="_blank" rel="noopener">[{footnote_num}]</a></sup>')
+            footnotes.append(
+                f'<li id="fn{footnote_num}">[{footnote_num}] {s["label"]}: '
+                f'<a href="{s["url"]}" target="_blank" rel="noopener">{s["url"]}</a></li>'
+            )
             footnote_num += 1
 
         marker_str = " " + "".join(markers) if markers else ""
-        bullets.append(f"- {state}: {takeaway}{marker_str}")
+        bullets.append(f"<li><strong>{state}:</strong> {takeaway}{marker_str}</li>")
 
     body = (
-        "Subject: US EPR Packaging Update - Monthly Digest\n\n"
-        "Here's what changed in the last 30 days:\n\n"
-        + "\n".join(bullets)
-        + "\n\nSources:\n"
-        + "\n".join(footnotes)
-        + "\n\n"
-        + DISCLAIMER
-        + "\n\n(Draft only - review and edit before sending to customers.)"
+        "<!DOCTYPE html>\n<html>\n<head><meta charset=\"utf-8\"></head>\n<body "
+        "style=\"font-family: Arial, sans-serif; font-size: 14px; color: #222;\">\n"
+        "<p><strong>Subject: US EPR Packaging Update - Monthly Digest</strong></p>\n"
+        "<p>Here's what changed in the last 30 days:</p>\n"
+        "<ul>\n" + "\n".join(bullets) + "\n</ul>\n"
+        + ("<p><strong>Sources:</strong></p>\n<ol>\n" + "\n".join(footnotes) + "\n</ol>\n" if footnotes else "")
+        + f"<p style=\"font-size: 12px; color: #666;\">{DISCLAIMER}</p>\n"
+        + "<p style=\"font-size: 12px; color: #999;\"><em>(Draft only - review and edit before sending to customers.)</em></p>\n"
+        "</body>\n</html>"
     )
     return body
 
