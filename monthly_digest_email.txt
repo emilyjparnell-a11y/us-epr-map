@@ -2,22 +2,79 @@ Subject: US EPR Packaging Update - Monthly Digest
 
 Here's what changed in the last 30 days:
 
-- Maine: Fees tied to volume/type of packaging. SO not yet selected as of mid-2026; RFP issued June 15, 2026.
-- Washington: PRO appointed by Jan 1 2026; registration with Ecology by Mar 1 2026; supply report due May 31 2026; producer participation required by July 1 2026.
-- Oregon: Fees by material/recyclability/volume. Feb 2026: federal injunction for NAW members; trial July 13, 2026. DEQ published ~300 non-compliant producers Apr 9, 2026, fines up to $25k/day.
-- Maryland: CAA registration by July 1 2026; simplified supply report (2025 data) due May 31 2026; covered materials list by July 1 2027; full plans due July 1 2028.
-- California: June 30, 2022 — Governor Newsom signed SB 54 into law | March 7, 2025 — Governor Newsom directed CalRecycle to restart rulemaking over cost concerns | May 1, 2026 — OAL approved and filed permanent SB 54 regulations; took effect immediately | June 1, 2026 — Producer registration and baseline 2023 supply data submission deadline (CAA or CalRecycle) | June 2, 2026 — NRDC/Californians Against Waste/Oceana filed state court lawsuit challenging certain regulatory provisions (advanced recycling exemptions) | June 15, 2026 — CAA submitted draft California Program Plan to SB 54 Advisory Board; public comment open through August 14, 2026 | June 22, 2026 — 17-state coalition + NAW filed federal lawsuit Nebraska v. Heller challenging SB 54 constitutionality; no injunction issued | August 14, 2026 — Public comment deadline on CAA draft program plan | October 2026 — CAA to submit final program plan to CalRecycle | January 1, 2027 — Full EPR program implementation targeted; $500M/year producer fee regime to begin
-- Colorado: June 3, 2022: Governor Polis signed HB22-1355 into law | May 2023: CDPHE designated Circular Action Alliance (CAA) as the state PRO | June 14, 2024: Solid and Hazardous Waste Commission adopted final Section 18 producer regulations | October 1, 2024: Producer registration deadline with CAA | July 1, 2025: Prohibition on selling/distributing covered materials without program participation took effect | July 31, 2025: Initial supply report deadline (2024 data) | September 2025: CDPHE approved Interchange 360's individual program plan for automotive lubricant packaging | November 2025: Solid and Hazardous Waste Commission adopted eco-modulation ruleset (Section 18 amendments) | December 9, 2025: CDPHE approved CAA's final program plan | January 2026: Producer dues obligations began | March 12, 2026: ILMA filed lawsuit in Denver District Court challenging CDPHE's EPR implementation (no injunction issued; program continues) | March 13, 2026: Interchange 360 began implementation for automotive lubricant packaging | May 13, 2026: Colorado legislature adjourned; SB26-192 (EPR dues appeal bill, sponsored by Sen. Cutter) failed to advance to enactment | June 9, 2026: Deadline for CAA to begin full program plan implementation | May 31, 2026: 2025 annual supply report deadline for producers
-- Minnesota: Limited registration 2025-2026; PRO operations begin 2027-2028; full requirements (reusable/recyclable/compostable) by 2032.
-- Illinois: Would require PRO membership with fee modulation favoring recyclable/reusable/PCR content.
-- New Jersey: 50% source reduction over 10 years proposed in the prior (S3398) version; not yet confirmed in the reintroduced bills.
-- New York: No milestones yet; would need Assembly passage to advance.
-- Hawaii: No producer obligations yet.
-- North Carolina: No milestones yet.
-- Massachusetts: No milestones yet.
-- Rhode Island: No milestones yet; all three bills pending committee action.
-- Connecticut: 2023: HB 6664 signed into law — EPR for packaging stripped before passage; recycled content mandate (25% by 2027, 30% by 2032) for plastic beverage containers enacted | 2025 session: HB 6917 (packaging EPR feasibility study) passed House, tabled on Senate calendar June 4, 2025 — died without a Senate vote | 2025: HB 5019 signed into law — EPR for consumer batteries enacted (not packaging) | 2026 session: HB 5151 (packaging EPR recommendations from waste characterization study) introduced February 11, 2026 — died in committee when 2026 session ended | 2026 session: HB 5524 (polystyrene/PFAS-straw ban) died in committee — 2026 session adjourned with no packaging EPR advancement
+- Maine: Fees tied to volume/type of packaging. SO not yet selected as of mid-2026; RFP issued June 15, 2026. [1][2]
+- Washington: PRO appointed by Jan 1 2026; registration with Ecology by Mar 1 2026; supply report due May 31 2026; producer participation required by July 1 2026. [3][4]
+- Oregon: Fees by material/recyclability/volume. Feb 2026: federal injunction for NAW members; trial July 13, 2026. DEQ published ~300 non-compliant producers Apr 9, 2026, fines up to $25k/day. [5][6]
+- Maryland: CAA registration by July 1 2026; simplified supply report (2025 data) due May 31 2026; covered materials list by July 1 2027; full plans due July 1 2028. [7][8]
+- California: June 30, 2022 — Governor Newsom signed SB 54 into law | March 7, 2025 — Governor Newsom directed CalRecycle to restart rulemaking over cost concerns | May 1, 2026 — OAL approved and filed permanent SB 54 regulations; took effect immediately | June 1, 2026 — Producer registration and baseline 2023 supply data submission deadline (CAA or CalRecycle) | June 2, 2026 — NRDC/Californians Against Waste/Oceana filed state court lawsuit challenging certain regulatory provisions (advanced recycling exemptions) | June 15, 2026 — CAA submitted draft California Program Plan to SB 54 Advisory Board; public comment open through August 14, 2026 | June 22, 2026 — 17-state coalition + NAW filed federal lawsuit Nebraska v. Heller challenging SB 54 constitutionality; no injunction issued | August 14, 2026 — Public comment deadline on CAA draft program plan | October 2026 — CAA to submit final program plan to CalRecycle | January 1, 2027 — Full EPR program implementation targeted; $500M/year producer fee regime to begin [9][10][11][12][13][14][15][16][17]
+- Colorado: June 3, 2022: Governor Polis signed HB22-1355 into law | May 2023: CDPHE designated Circular Action Alliance (CAA) as the state PRO | June 14, 2024: Solid and Hazardous Waste Commission adopted final Section 18 producer regulations | October 1, 2024: Producer registration deadline with CAA | July 1, 2025: Prohibition on selling/distributing covered materials without program participation took effect | July 31, 2025: Initial supply report deadline (2024 data) | September 2025: CDPHE approved Interchange 360's individual program plan for automotive lubricant packaging | November 2025: Solid and Hazardous Waste Commission adopted eco-modulation ruleset (Section 18 amendments) | December 9, 2025: CDPHE approved CAA's final program plan | January 2026: Producer dues obligations began | March 12, 2026: ILMA filed lawsuit in Denver District Court challenging CDPHE's EPR implementation (no injunction issued; program continues) | March 13, 2026: Interchange 360 began implementation for automotive lubricant packaging | May 13, 2026: Colorado legislature adjourned; SB26-192 (EPR dues appeal bill, sponsored by Sen. Cutter) failed to advance to enactment | June 9, 2026: Deadline for CAA to begin full program plan implementation | May 31, 2026: 2025 annual supply report deadline for producers [18][19][20][21][22][23][24][25][26][27]
+- Minnesota: Limited registration 2025-2026; PRO operations begin 2027-2028; full requirements (reusable/recyclable/compostable) by 2032. [28]
+- Illinois: Would require PRO membership with fee modulation favoring recyclable/reusable/PCR content. [29][30]
+- New Jersey: 50% source reduction over 10 years proposed in the prior (S3398) version; not yet confirmed in the reintroduced bills. [31][32][33]
+- New York: No milestones yet; would need Assembly passage to advance. [34][35]
+- Hawaii: No producer obligations yet. [36]
+- North Carolina: No milestones yet. [37][38]
+- Massachusetts: No milestones yet. [39]
+- Rhode Island: No milestones yet; all three bills pending committee action. [40][41][42][43][44]
+- Connecticut: 2023: HB 6664 signed into law — EPR for packaging stripped before passage; recycled content mandate (25% by 2027, 30% by 2032) for plastic beverage containers enacted | 2025 session: HB 6917 (packaging EPR feasibility study) passed House, tabled on Senate calendar June 4, 2025 — died without a Senate vote | 2025: HB 5019 signed into law — EPR for consumer batteries enacted (not packaging) | 2026 session: HB 5151 (packaging EPR recommendations from waste characterization study) introduced February 11, 2026 — died in committee when 2026 session ended | 2026 session: HB 5524 (polystyrene/PFAS-straw ban) died in committee — 2026 session adjourned with no packaging EPR advancement [45][46][47][48][49][50][51][52][53][54][55]
 
-Data subject to change as legislation develops. Check state legislation and Producer Responsibility Organizations (PROs) for the most up-to-date information. This map reflects legislative research compiled from public sources using AI tools, and is provided for informational purposes only.
+Sources:
+[1] Faegre Drinker: https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility
+[2] White & Case: https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement
+[3] Faegre Drinker: https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility
+[4] White & Case: https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement
+[5] Faegre Drinker: https://www.faegredrinker.com/en/insights/publications/2026/4/trade-group-lawsuits-challenge-extended-producer-responsibility-epr-laws-in-oregon-and-colorado
+[6] White & Case: https://www.whitecase.com/insight-alert/extended-producer-responsibility-epr-laws-new-supply-chain-compliance-requirement
+[7] Mayer Brown: https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance
+[8] Faegre Drinker: https://www.faegredrinker.com/en/insights/publications/2026/7/packaging-sustainability-and-compliance-including-extended-producer-responsibility
+[9] CalRecycle — SB 54 Official Program Page: https://calrecycle.ca.gov/packaging/packaging-epr/
+[10] Holland & Knight — California's Final EPR Regulations Now in Effect (May 11, 2026): https://www.hklaw.com/en/insights/publications/2026/05/californias-final-epr-regulations-now-in-effect
+[11] Beveridge & Diamond — Seventeen States and NAW Challenge California's Packaging EPR Law (June 2026): https://www.bdlaw.com/publications/seventeen-states-and-naw-challenge-californias-packaging-epr-law/
+[12] Circular Action Alliance — California Program Plan Public Comment: https://circularactionalliance.org/ca/program-plan-public-comment
+[13] Circular Action Alliance — CAA Submits California Program Plan Under SB 54 (June 15, 2026): https://circularactionalliance.org/news-feed/ca-plan-submission-2026
+[14] Foley & Lardner — 17 States Challenge California Packaging Law With National Supply Chain Stakes (June 2026): https://www.foley.com/insights/publications/2026/06/17-states-challenge-california-packaging-law-with-national-supply-chain-stakes/
+[15] Keller and Heckman — California Packaging EPR Program Faces Legal Challenges (June 2026): https://www.khlaw.com/insights/california-packaging-epr-program-faces-legal-challenges
+[16] Proskauer — 2025 Guide to EPR Packaging Compliance: https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance
+[17] Beveridge & Diamond — CalRecycle Reissues Draft SB 54 Regulations (May 2025): https://www.bdlaw.com/publications/calrecycle-reissues-draft-sb-54-regulations-targeting-californias-plastic-packaging-epr-program/
+[18] Colorado General Assembly – HB22-1355 bill page: https://leg.colorado.gov/bills/hb22-1355
+[19] Colorado General Assembly – SB26-192 bill page: https://leg.colorado.gov/bills/SB26-192
+[20] CDPHE – Producer Responsibility Program (official state agency page): https://cdphe.colorado.gov/hm/epr-program
+[21] Circular Action Alliance – Colorado EPR page: https://circularactionalliance.org/circular-action-alliance-colorado
+[22] Proskauer Rose LLP – EPR Packaging Law Update (July 2026): https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update
+[23] Faegre Drinker – Trade Group Lawsuits Challenge EPR Laws in Oregon and Colorado: https://www.faegredrinker.com/en/insights/publications/2026/4/trade-group-lawsuits-challenge-extended-producer-responsibility-epr-laws-in-oregon-and-colorado
+[24] Pillsbury Law – Colorado Packaging EPR Program Faces Legal Challenge from Lubricant Trade Association: https://www.pillsburylaw.com/en/news-and-insights/colorado-packaging-extended-producer-responsibility-program-lubricant-trade-association.html
+[25] Sustainable Packaging Coalition – Packaging Policy News (May 21, 2026): https://sustainablepackaging.org/2026/05/21/packaging-policy-news/
+[26] LegiScan – Colorado SB192 (2026): https://legiscan.com/CO/bill/SB192/2026
+[27] Mondaq/Proskauer – EPR Packaging Law Update (July 2026): https://www.mondaq.com/unitedstates/environmental-law/1813312/extended-producer-responsibility-epr-packaging-law-update
+[28] Mayer Brown: https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance
+[29] Compliance & Risks: https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/
+[30] Sustainable Packaging Coalition: https://epr.sustainablepackaging.org/policies
+[31] Compliance & Risks: https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/
+[32] NJ Legislature: https://pub.njleg.gov/Bills/2026/S1000/673_I1.HTM
+[33] LegiScan: https://legiscan.com/NJ/bill/S673/2026
+[34] Sustainable Packaging Coalition: https://epr.sustainablepackaging.org/policies
+[35] Compliance & Risks: https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/
+[36] Compliance & Risks: https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/
+[37] Mayer Brown: https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance
+[38] Sustainable Packaging Coalition: https://epr.sustainablepackaging.org/policies
+[39] Compliance & Risks: https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/
+[40] Compliance & Risks: https://www.complianceandrisks.com/blog/extended-producer-responsibility-for-packaging-in-the-united-states-a-2025-update/
+[41] RI Legislature: https://webserver.rilegislature.gov/BillText26/HouseText26/H7910.htm
+[42] LegiScan (H7910): https://legiscan.com/RI/bill/H7910/2026
+[43] LegiScan (H7911): https://legiscan.com/RI/bill/H7911/2026
+[44] LegiScan (S2656): https://legiscan.com/RI/bill/S2656/2026
+[45] Connecticut DEEP — Extended Producer Responsibility and Product Stewardship: https://portal.ct.gov/DEEP/P2/Product-Stewardship/Product-Stewardship
+[46] Connecticut General Assembly — HB 6917 Bill Status (2025): https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB06917&which_year=2025
+[47] Connecticut General Assembly — HB 5019 Bill Status (2025): https://cga.ct.gov/asp/CGABillStatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05019&which_year=2025
+[48] Proskauer Rose — EPR Packaging Law Update (June 2026): https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update
+[49] Mondaq / National Law Review — Snapshot of EPR in 2025 (Acta Group): https://natlawreview.com/article/snapshot-extended-producer-responsibility-2025
+[50] O'Melveny — 2026 Plastics EPR & Packaging Rules Update: https://www.omm.com/insights/alerts-publications/2026-plastics-epr-packaging-rules-update-what-sb-54-sb-343-state-reporting-deadlines-prc-laws-the-eu-ppwr-mean-for-producers-retailers/
+[51] Compliance & Risks — Packaging EPR Expansion: New Developments Across the U.S.: https://www.complianceandrisks.com/blog/packaging-epr-expansion-new-developments-across-the-u-s/
+[52] Sustainable Packaging Coalition — Packaging Policy Roundup (May 2026): https://sustainablepackaging.org/2026/05/21/packaging-policy-news/
+[53] Resource Recycling — Packaging EPR bills take shape in a dozen states (2025): https://resource-recycling.com/recycling/2025/04/04/packaging-epr-bills-take-shape-in-a-dozen-states/
+[54] Policy Pickup (Marissa Heffernan) — Weekly Policy Pickup: 2026 session bill outcomes: https://policypickup.substack.com/p/weekly-policy-pickup-cb0
+[55] Waste Dive — Contentious Connecticut waste and recycling bill heads to governor's desk, without EPR (2023): https://www.wastedive.com/news/connecticut-waste-lamont-epr-pcr-organics-mira-gasification/652461/
+
+Data subject to change as legislation develops. Check state legislation and Producer Responsibility Organizations (PROs) for the most up-to-date information. This map reflects legislative research compiled from public sources and is provided for informational purposes only.
 
 (Draft only - review and edit before sending to customers.)
