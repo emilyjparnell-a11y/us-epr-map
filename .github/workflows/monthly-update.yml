@@ -27,6 +27,6 @@ jobs:
         run: |
           git config user.name "epr-bot"
           git config user.email "epr-bot@users.noreply.github.com"
-          git add epr-data.json monthly_digest_email.txt
+          git add epr-data.json monthly_digest_email.html
           git diff --quiet --cached || git commit -m "Monthly EPR data refresh"
           git push
