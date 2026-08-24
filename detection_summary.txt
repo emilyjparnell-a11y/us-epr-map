@@ -1,25 +1,29 @@
 EPR Detection Summary - review suggested_updates.csv for full details
 
-- Connecticut: Connecticut's 2025 packaging EPR activity was limited to HB 6917 (Substitute), which would have mandated a study on the need and viability of packagin
-- Delaware: SB 287, introduced April 21, 2026 and amended (SA 1) on May 21, 2026, amends Title 7 of the Delaware Code relating to solid waste recycling to require
-- Georgia: HB 1237 would have amended Chapter 8 of Title 12 of the Official Code of Georgia Annotated to establish a comprehensive EPR framework covering packagi
-- Hawaii: HB 750 is enacted law: the Hawaii Department of Health began needs assessment work on July 1, 2025, supported by an advisory council and $1.5 million 
-- Illinois: Illinois EPA provided the draft Statewide Recycling Needs Assessment (conducted by consultant Eunomia) to the Advisory Council on June 30, 2026; the a
-- Iowa: Iowa has no state-level EPR packaging bill introduced, pending, or passed in the current 91st General Assembly (2025–2026). Iowa's Attorney General jo
-- Maine: Maine DEP issued its long-delayed Stewardship Organization RFP on June 15, 2026; the solicitation closes August 23, 2026 and the DEP expects to execut
-- Maryland: SB 901 established producer responsibility obligations for covered materials including primary, secondary, and tertiary packaging (plastic, paper, met
-- Michigan: HB 5902, introduced July 31, 2024 by Rep. Abraham Aiyash (D) and referred to the House Committee on Natural Resources, Environment, Tourism and Outdoo
-- Minnesota: The law is fully enacted and in active implementation. The MPCA completed a preliminary assessment in February 2026 and needs assessment surveys are u
-- Missouri: HB 3504 would require producers of packaging and paper products — including all packaging material types — to join or form a nonprofit Producer Respon
-- Nebraska: LB 607 was a broad omnibus bill covering EPR data collection for packaging, minimum recycled content requirements, and battery stewardship. It was rei
-- New Hampshire: HB 1789-FN would have established a producer-funded packaging reduction and recycling program covering all packaging materials (paper, plastic, glass,
-- New Jersey: S3398 and A5009 died on January 12, 2026, when the 2024–2025 legislative session ended without a floor vote. The bills were reintroduced on January 13
-- New York: The amended bill (S.1464A / A.1749A), which covers all packaging including plastic film, bags, and other packaging materials, received nearly 150 amen
-- North Carolina: HB 882 was filed in April 2025 and referred to the House Rules Committee on April 10, 2025, where it has stalled with no further action recorded. An e
-- Rhode Island: H6207, signed by Gov. Dan McKee on June 30, 2025, converted what had been a full EPR-plus-bottle-bill proposal into a statewide recycling needs assess
-- Tennessee: SB 0269 / HB 0600 was introduced January 23, 2025 by Sen. Heidi Campbell (D) and Rep. Bob Freeman (D), amended in early 2026 to add small-business (un
-- Utah: Utah is not among the seven states that have enacted packaging EPR laws (Maine, Oregon, Colorado, California, Minnesota, Maryland, Washington), and no
-- Vermont: S.139 would have required a needs assessment on the management of packaging materials distributed in Vermont — covering reuse, recyclability, safety, 
-- Virginia: Virginia remains in the pre-enactment category alongside New Jersey as one of only two states whose packaging EPR bill carries over automatically to t
-- Washington: The Recycling Reform Act establishes an EPR program for residential packaging (including plastic, paper, metal, and glass) and paper products, requiri
-- Wisconsin: AB 772 (Assembly) and SB 778 (Senate) — identical bills creating a packaging reduction and recycling producer responsibility program administered by t
+- California: Final SB 54 regulations were approved by the California Office of Administrative Law on May 1, 2026 and became immediately effective, triggering produ
+- Colorado: HB22-1355 entered full implementation on June 9, 2026, with producer dues active since January 2026 and CY2025 annual supply reports due May 31, 2026.
+- Connecticut: In the 2026 legislative session, Connecticut HB 5151 — which would have required the state to develop recommendations on EPR programs for consumer pac
+- Delaware: SB 287 passed the Delaware Senate 20-0 on June 16, 2026, and the House 41-0 on June 30, 2026, and was transmitted to Governor Matt Meyer on June 30, 2
+- Georgia: HB 1237 covered all covered packaging materials (including bags, film, paper, and other packaging types) and would have created Producer Responsibilit
+- Hawaii: HB 750 (signed May 27, 2025) is the operative Hawaii law: it directs the Department of Health to conduct a statewide needs assessment for a potential 
+- Illinois: Public Act 103-0383 requires Illinois EPA to complete a statewide recycling needs assessment covering packaging and paper products, with findings due 
+- Indiana: Indiana is among more than 30 states whose packaging-related bills failed to advance before their 2025 legislative sessions adjourned. As of August 20
+- Kentucky: KY HB 287 (2026), sponsored by Rep. Marzian, would have banned single-use plastic carryout bags by July 1, 2031, and banned single-use plastic straws 
+- Maine: Maine DEP issued its long-delayed Stewardship Organization RFP on June 15, 2026, with proposals due August 18, 2026; no electronic submissions were re
+- Maryland: Maryland SB 901 is fully enacted and in active implementation. The Maryland Department of the Environment adopted initial EPR regulations on May 5, 20
+- Michigan: HB 5902, introduced July 31, 2024, was referred to the House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation and did not a
+- Minnesota: Active implementation is underway. The MPCA issued a notice of intent to develop implementing rules on May 15, 2026, with a public comment period on r
+- Missouri: HB 3504 would require producers of packaging and paper products to join or form a nonprofit Producer Responsibility Organization (PRO) to fund and man
+- Montana: Montana HB 477 would have created a five-year phaseout of EPS food containers used in restaurants and food establishments, covering roughly 7,500 esta
+- Nebraska: LB 607 was originally introduced in January 2025, carried over and reintroduced on January 7, 2026, then indefinitely postponed by the Nebraska Legisl
+- New Hampshire: HB 1789-FN would have established a packaging reduction program requiring producers to pay fees based on quantity and type of packaging, with reductio
+- New Jersey: S3398 and its Assembly companion A5009 died on January 12, 2026, when the 2024-2025 legislative session expired without a floor vote. On January 13, 2
+- New York: The 2026 New York legislative session ended without the Assembly voting on SB 1464A / A1749A. The bill had passed the Senate in 2024, 2025, and again 
+- North Carolina: HB 882, introduced April 9, 2025, would establish a comprehensive packaging EPR framework requiring producers to register with NCDEQ and join a Produc
+- Oklahoma: Oklahoma HB 4068 (introduced February 2026) would have prohibited unsubstantiated environmental claims — including recyclable, compostable, biodegrada
+- Rhode Island: H 6207, signed by Governor McKee on June 30, 2025, mandates a third-party statewide recycling and waste-management gap analysis with a needs assessmen
+- Tennessee: SB 0269 / HB 600 (Tennessee Waste to Jobs Act) was sidelined in March 2026 after failing to advance out of the Senate Energy, Agriculture and Natural 
+- Vermont: Vermont's broad packaging EPR bill S.139, which would have required a needs assessment covering packaging materials including opportunities to improve
+- Virginia: The 2026 Virginia General Assembly adjourned sine die on March 14, 2026 without passing an EPR packaging law. Virginia is one of only two states where
+- Washington: The law is in Phase 1 implementation. CAA is the designated PRO; producers were required to join by July 1, 2026. Ecology is conducting rulemaking, ha
+- Wisconsin: Companion bills AB 772 (Assembly) and SB 778 (Senate) were introduced December 12–17, 2025, and referred to their respective committees (Assembly Comm
