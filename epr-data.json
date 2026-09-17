@@ -3,18 +3,17 @@
     "abbr": "ME",
     "name": "Maine",
     "stage": "passed",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Maine's packaging EPR law (LD 1541, enacted July 2021) is in active implementation. A 2025 amendment (LD 1423, signed June 20, 2025) updated definitions, exclusions, and program structure. Chapter 428 rules were amended in March 2026 to add the Packaging Material Types List (Appendix A). The Maine DEP issued an RFP for a Stewardship Organization on June 15, 2026, with the solicitation closing August 23, 2026 and SO contract expected to begin September 15, 2026.",
-    "status": "Maine DEP issued its long-delayed Stewardship Organization RFP on June 15, 2026; the solicitation closes August 23, 2026 and the DEP expects to execute the SO contract by September 15, 2026. Registration, invoicing, and producer start-up fee payment are now expected by end of 2026, with first municipal reimbursements projected for end of 2027. Producer guidance covering who qualifies as a producer, packaging material type identification, registration, and reporting methods is set for publication in summer 2026.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Maine's packaging EPR law (LD 1541, 38 M.R.S. \u00a72146, enacted July 2021) was amended by LD 1423 (signed June 20, 2025). The program covers all consumer packaging material types regardless of substrate \u2014 plastic (including film/poly bags and flexible packaging), paper (including paper bags and paper-based packaging), glass, metal, and cardboard. Implementation is stalled: the Stewardship Organization RFP closed August 18, 2026 with zero proposals submitted, and on September 11, 2026 Maine DEP announced it will revise and reissue the RFP.",
+    "status": "Maine DEP published its Stewardship Organization RFP on June 15, 2026, but received no proposals by the August 18, 2026 deadline; Circular Action Alliance \u2014 the sole expected bidder and the PRO in all six other EPR states \u2014 declined to bid, citing misalignment between the RFP scope and its operational model. On September 11, 2026, DEP announced it will revise the RFP and reissue it. With no Stewardship Organization under contract, producers currently have no active registration, reporting, or fee obligations, and all previously stated implementation dates (including late-2026 registration and invoicing) are no longer in effect.",
     "milestones": [
-      "July 2021: LD 1541 enacted \u2014 first U.S. state packaging EPR law (38 M.R.S. \u00a7 2146)",
-      "June 20, 2025: LD 1423 signed \u2014 amended definitions, producer exemptions, toxicity standards, and excluded certain commercial/medical/hazardous packaging",
-      "December 2024: Maine Board of Environmental Protection adopted final program rules (Chapter 428)",
-      "March 2026: Chapter 428 amended to add Appendix A (Packaging Material Types List) and align with LD 1423 changes",
-      "June 15, 2026: Maine DEP issued Stewardship Organization RFP",
-      "August 23, 2026: RFP solicitation closes; SO contract targeted for September 15, 2026",
-      "End of 2026: Producer registration and invoicing expected to begin",
-      "End of 2027: First municipal reimbursements projected"
+      "July 2021: LD 1541 enacted \u2014 first-in-nation packaging EPR law, covering all packaging substrates including plastic film, paper bags, and other bagging formats",
+      "December 2024: Maine Board of Environmental Protection adopts final implementing rule, Chapter 428",
+      "June 20, 2025: Governor Mills signs LD 1423, amending LD 1541 to clarify producer definitions/exemptions, align with shared-responsibility model of other states, and exclude certain commercial/medical/hazardous product packaging",
+      "February 19, 2026: Maine Board of Environmental Protection unanimously adopts Chapter 428 amendments, adding Appendix A (Packaging Material Types List)",
+      "June 15, 2026: Maine DEP issues Stewardship Organization RFP-202605094",
+      "August 18\u201320, 2026: RFP closes with zero proposals; DEP announces it is assessing all options",
+      "September 11, 2026: DEP announces it will revise and reissue the Stewardship Organization RFP"
     ],
     "sources": [
       {
@@ -22,28 +21,28 @@
         "url": "https://www.maine.gov/dep/waste/recycle/epr.html"
       },
       {
-        "label": "Maine DEP GovDelivery \u2014 SO RFP Announcement (June 15, 2026)",
+        "label": "Maine DEP \u2014 Packaging Stewardship Program Resources (RFP announcements)",
+        "url": "https://www.maine.gov/dep/waste/recycle/epr-resources.html"
+      },
+      {
+        "label": "Maine DEP GovDelivery \u2014 Shape Maine's Packaging Future: DEP Announces RFP (June 15, 2026)",
         "url": "https://content.govdelivery.com/accounts/MEDEP/bulletins/41c13c3"
       },
       {
-        "label": "Proskauer \u2014 2025 Guide to EPR Packaging Compliance",
+        "label": "Proskauer \u2014 The 2025 Guide to EPR Packaging Compliance",
         "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
       },
       {
-        "label": "Verrill Law \u2014 Update on Status of Maine Packaging EPR (July 2026)",
-        "url": "https://www.verrill-law.com/blog/update-on-status-of-maine-packaging-epr/"
+        "label": "National Law Review \u2014 Maine Packaging EPR Program Faces New Uncertainty After DEP Receives No Bids",
+        "url": "https://natlawreview.com/article/maine-packaging-epr-program-faces-new-uncertainty-after-dep-receives-no-bids"
       },
       {
-        "label": "Circular Action Alliance \u2014 Maine Program Page",
-        "url": "https://circularactionalliance.org/circular-action-alliance-maine"
+        "label": "Faegre Drinker / packaginglaw.com \u2014 Maine Enacts Law to Modify Packaging EPR Requirements (LD 1423)",
+        "url": "https://www.packaginglaw.com/news/maine-enacts-law-modify-packaging-epr-requirements"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2014 Packaging Policy Roundup (June 22, 2026)",
-        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
-      },
-      {
-        "label": "Maine DEP \u2014 Chapter 428 Proposed Rulemaking (Appendix A)",
-        "url": "https://www.maine.gov/tools/whatsnew/index.php?topic=dep-rulemaking&id=13281815&v=govdel"
+        "label": "Beveridge & Diamond / FBM \u2014 Maine DEP Receives No Proposals for Stewardship Organization",
+        "url": "https://www.fbm.com/publications/maine-dep-receives-no-proposals-to-act-as-the-stewardship-organization-administering-its-epr-law-for-packaging/"
       }
     ]
   },
@@ -51,23 +50,22 @@
     "abbr": "WA",
     "name": "Washington",
     "stage": "passed",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Washington E2SSB 5284 (Recycling Reform Act, Chapter 70A.208 RCW) \u2014 signed into law May 17, 2025; active implementation underway as of August 2026, including a public comment period on preliminary statewide collection lists (Aug. 5\u201319, 2026).",
-    "status": "The Recycling Reform Act establishes an EPR program for residential packaging (including plastic, paper, metal, and glass) and paper products, requiring producers to join the Circular Action Alliance (CAA), which was designated as the sole PRO by the Washington Department of Ecology on March 4, 2026. The July 1, 2026 deadline for producers to be registered with a PRO has now passed; Ecology is conducting a public comment period through August 19, 2026 on preliminary statewide collection lists, with final lists due by October 1, 2026. Rulemaking is ongoing, with full program implementation and PRO cost reimbursements for service providers scheduled for January 1, 2030.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Washington E2SSB 5284 (Recycling Reform Act) signed into law May 17, 2025; effective July 27, 2025. The law establishes an EPR program covering glass, plastic (including wraps, films, and bags), paper, and metal packaging and paper products sold to residential consumers. The Washington Department of Ecology is now in active Phase 1 implementation: rulemaking underway (Chapter 173-950 WAC), a preliminary statewide collection list was open for public comment August 5\u201319, 2026, and finalized collection lists are due by October 2026.",
+    "status": "The law (codified as Chapter 70A.208 RCW) requires producers of covered packaging and paper products to join or form a Producer Responsibility Organization (PRO) by July 1, 2026, with the PRO required to have registered with Ecology by March 1, 2026. Circular Action Alliance (CAA) registered as the PRO on behalf of producers. Ecology is conducting rulemaking and published preliminary statewide collection lists for public comment in August 2026; final lists are due by October 1, 2026. Full program implementation, including curbside recycling cost reimbursements to service providers, begins January 1, 2030.",
     "milestones": [
-      "April 24, 2025 \u2013 E2SSB 5284 passed by Washington Legislature",
-      "May 17, 2025 \u2013 Signed into law by Governor Bob Ferguson",
-      "July 27, 2025 \u2013 Law became effective",
-      "January 1, 2026 \u2013 Producers required to appoint a PRO",
-      "March 1, 2026 \u2013 PRO registration deadline with Ecology",
-      "March 4, 2026 \u2013 Ecology designates Circular Action Alliance (CAA) as the PRO",
-      "July 1, 2026 \u2013 Deadline for producers to be members of a PRO (passed)",
-      "August 5\u201319, 2026 \u2013 Public comment period on preliminary statewide collection lists (active at time of search)",
-      "September 1, 2026 \u2013 PRO one-time payment to Ecology due",
-      "October 1, 2026 \u2013 Ecology must publish final statewide collection lists",
-      "December 31, 2026 \u2013 Preliminary statewide recycling needs assessment due",
-      "October 1, 2028 \u2013 PRO must submit full program plan to Ecology",
-      "January 1, 2030 \u2013 Full EPR program implementation"
+      "April 24, 2025: Washington Legislature passed E2SSB 5284",
+      "May 17, 2025: Governor Ferguson signed E2SSB 5284 into law",
+      "July 27, 2025: Law became effective (Chapter 70A.208 RCW)",
+      "January 1, 2026: Producers required to appoint a PRO",
+      "March 1, 2026: PROs required to register with Ecology; CAA registered as PRO",
+      "July 1, 2026: Deadline for producers to be approved members of a PRO",
+      "August 5\u201319, 2026: Public comment period on preliminary statewide collection lists",
+      "October 1, 2026: Ecology must publish finalized statewide collection lists",
+      "Rulemaking: Chapter 173-950 WAC in progress; first rulemaking committee meeting held May 27, 2026",
+      "December 31, 2026: Preliminary statewide recycling needs assessment due",
+      "March 1, 2029: Producers not registered with a PRO prohibited from selling covered products in Washington",
+      "January 1, 2030: Full EPR program implementation begins"
     ],
     "sources": [
       {
@@ -75,28 +73,36 @@
         "url": "https://ecology.wa.gov/waste-toxics/reducing-recycling-waste/our-recycling-programs/recycling-reform-act"
       },
       {
-        "label": "Washington State Department of Ecology \u2013 PRO Page",
-        "url": "https://ecology.wa.gov/waste-toxics/reducing-recycling-waste/our-recycling-programs/recycling-reform-act/producer-responsibility-organization"
+        "label": "Washington State Department of Ecology \u2013 Recycling Reform Act Rulemaking (Chapter 173-950 WAC)",
+        "url": "https://ecology.wa.gov/events/rulemaking/173-950-wac-recycling-reform/recycling-reform-act-rulemaking"
       },
       {
-        "label": "Washington State Department of Ecology Blog \u2013 Recycling Reform Act will lower recycling costs (July 2026)",
-        "url": "https://ecology.wa.gov/blog/july-2026/recycling-reform-act-will-lower-recycling-costs-in-washington-state"
+        "label": "Washington State Department of Ecology \u2013 Proposed Statewide Recycling List",
+        "url": "https://ecology.wa.gov/events/swm/recycling-reform-act/proposed-statewide-recycling-list"
+      },
+      {
+        "label": "Washington State Legislature \u2013 SB 5284 Bill Summary",
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5284&Chamber=Senate&Year=2025"
+      },
+      {
+        "label": "Washington State Department of Ecology \u2013 2025 Legislation",
+        "url": "https://ecology.wa.gov/waste-toxics/reducing-recycling-waste/strategic-policy-and-planning/enacting-legislation/2025-legislation"
       },
       {
         "label": "Holland & Knight \u2013 Washington State Enacts EPR Program for Packaging and Paper Products",
         "url": "https://www.hklaw.com/en/insights/publications/2025/05/washington-state-enacts-epr-program-for-packaging-and-paper-products"
       },
       {
-        "label": "Circular Action Alliance \u2013 Washington Program Page",
-        "url": "https://circularactionalliance.org/circular-action-alliance-washington"
+        "label": "Proskauer \u2013 The 2025 Guide to EPR Packaging Compliance",
+        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
       },
       {
-        "label": "Circular Action Alliance \u2013 CAA Announced as PRO in Washington (March 4, 2026)",
-        "url": "https://circularactionalliance.org/news-feed/circular-action-alliance-announced-as-the-producer-responsibility-organization-in-washington"
+        "label": "Washington State Department of Ecology \u2013 Recycling Reform Act Overview (Publication 25-07-046)",
+        "url": "https://apps.ecology.wa.gov/publications/documents/2507046.pdf"
       },
       {
-        "label": "Washington State Legislature \u2013 SB 5284 Bill Summary",
-        "url": "https://app.leg.wa.gov/billsummary?BillNumber=5284&Year=2025&Initiative=false"
+        "label": "Washington State Department of Ecology \u2013 Recycling Reform Act Will Lower Recycling Costs (Blog, July 2026)",
+        "url": "https://ecology.wa.gov/blog/july-2026/recycling-reform-act-will-lower-recycling-costs-in-washington-state"
       }
     ]
   },
@@ -125,22 +131,18 @@
     "abbr": "MD",
     "name": "Maryland",
     "stage": "passed",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Maryland SB 901 (Packaging and Paper Products Producer Responsibility Plan) was signed into law on May 13, 2025. Implementing regulations became effective May 25, 2026.",
-    "status": "SB 901 established producer responsibility obligations for covered materials including primary, secondary, and tertiary packaging (plastic, paper, metal, glass, bags, and service packaging). The Maryland Department of the Environment adopted the first set of implementing regulations, published in the Maryland Register on May 15, 2026, and effective May 25, 2026, focusing on the registration process. The Circular Action Alliance (CAA) is the sole approved PRO; producers were required to register and submit a simplified supply report to CAA by May 31, 2026, with a full producer responsibility plan due to MDE by July 1, 2028.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Maryland SB 901 (Packaging and Paper Products \u2013 Producer Responsibility Plans Act) was signed into law on May 13, 2025, and its first implementing regulations (COMAR 26.04.14) became effective May 25, 2026. The law covers all packaging and paper products \u2014 including primary, secondary, and tertiary packaging materials such as plastic film/bags, paper bags, and mesh/bulk-good bags \u2014 sold, offered for sale, imported, or distributed in Maryland.",
+    "status": "The program is now in its active registration and early-compliance phase: implementing regulations took effect May 25, 2026, and CAA (the only currently registered PRO) was required to submit its producer, brand, and material list to MDE by July 1, 2026. Fees are not yet active; the PRO five-year producer responsibility plan is due July 1, 2028, after which a cost-share ramp begins (50% of net recycling costs by 2028, 75% by 2029, 90% by 2030). MDE has indicated additional rulemakings will follow to address full reporting categories, fee structures, and other program details.",
     "milestones": [
-      "April 7, 2025: Maryland General Assembly passed SB 901",
-      "May 13, 2025: Governor Wes Moore signed SB 901 into law",
-      "February 6, 2026: MDE issued proposed implementing regulations for public comment",
-      "March 9, 2026: Public comment period on proposed regulations closed",
-      "May 5, 2026: MDE adopted first set of implementing regulations",
-      "May 15, 2026: Regulations published in Maryland Register",
-      "May 25, 2026: Implementing regulations became effective",
-      "May 31, 2026: Producer registration and simplified supply report deadline with CAA",
-      "July 1, 2026: PRO required to provide MDE a list of producers, brands, and material types",
-      "July 1, 2027: MDE to publish statewide list of recyclable/compostable covered materials",
-      "July 1, 2028: PROs must submit five-year Producer Responsibility Plan to MDE",
-      "October 29, 2028: Sales ban for producers without an approved producer plan on file"
+      "SB 901 signed into law by Governor Moore \u2013 May 13, 2025",
+      "First implementing regulations (COMAR 26.04.14) published in Maryland Register \u2013 May 15, 2026",
+      "Implementing regulations effective \u2013 May 25, 2026",
+      "CAA producer/brand/material registration list due to MDE \u2013 July 1, 2026",
+      "MDE to publish statewide list of recyclable/compostable covered materials \u2013 July 1, 2027",
+      "PRO five-year producer responsibility plan due to MDE \u2013 July 1, 2028",
+      "Sales ban for non-compliant producers takes effect \u2013 October 29, 2028",
+      "Producer cost-share ramp: 50% by 2028, 75% by 2029, 90% by 2030"
     ],
     "sources": [
       {
@@ -158,6 +160,14 @@
       {
         "label": "Maryland Department of the Environment \u2013 Producer Responsibility Program Page",
         "url": "https://mde.maryland.gov/programs/land/WasteManagement/Pages/ProducerResponsibility.aspx"
+      },
+      {
+        "label": "MDE \u2013 COMAR 26.04.14 Final Rule (official regulation text)",
+        "url": "https://mde.maryland.gov/programs/regulations/HB1124/Documents/FOR%20VIEWING%20ONLY%20COMAR%2026.04.14_%20EPR%20-%20%20Packaging%20and%20Paper%20Products%20.pdf"
+      },
+      {
+        "label": "Circular Action Alliance \u2013 Maryland Covered Material and Producer Definitions Guidance (March 2026)",
+        "url": "https://circularactionalliance.org/s/Maryland-Part-1-Guidance_2026.pdf"
       }
     ]
   },
@@ -165,57 +175,66 @@
     "abbr": "CA",
     "name": "California",
     "stage": "passed",
-    "lastUpdated": "2026-07-12",
-    "lawPassed": "California SB 54 (Plastic Pollution Prevention and Packaging Producer Responsibility Act, signed 2022) \u2014 permanent implementing regulations finalized May 1, 2026; enforcement obligations active; CAA draft program plan submitted June 15, 2026; federal constitutional challenge filed June 22, 2026 (Nebraska v. Heller); law remains in effect pending court action.",
-    "status": "Permanent SB 54 regulations took effect May 1, 2026 upon OAL approval, triggering producer registration and reporting obligations (initial deadline June 1, 2026). CAA submitted its draft California Program Plan to the SB 54 Advisory Board on June 15, 2026, opening a public comment period through August 14, 2026, with a final plan due to CalRecycle in October 2026 and full program implementation targeted for January 1, 2027. On June 22, 2026, a coalition of 17 state attorneys general led by Nebraska, joined by the National Association of Wholesaler-Distributors, filed a federal lawsuit (Nebraska v. Heller, E.D. Cal.) challenging SB 54 on Commerce Clause, First Amendment, and other constitutional grounds; the suit does not automatically suspend the law and no injunction has been issued.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "California SB 54 (Plastic Pollution Prevention and Packaging Producer Responsibility Act), enacted June 2022; permanent implementing regulations approved by the Office of Administrative Law on May 1, 2026 and now in effect. The program covers all single-use packaging (including plastic film, bags, flexible packaging, paper-based packaging, and food service ware) sold, distributed, or imported into California.",
+    "status": "Permanent regulations took effect May 1, 2026, triggering immediate producer registration and reporting obligations. CAA submitted its draft California Program Plan to the SB 54 Advisory Board on June 15, 2026; a public comment period closed August 14, 2026, and CAA must submit the final Program Plan to CalRecycle by October 13, 2026 for approval by January 1, 2027, when full program enforcement begins. Two active lawsuits challenge the regulations \u2014 a June 2, 2026 state court suit by NRDC/Californians Against Waste over alleged regulatory loopholes, and a June 22, 2026 federal suit by a 17-state coalition and NAW raising constitutional objections \u2014 but neither has resulted in a stay or injunction, and compliance obligations remain in effect.",
     "milestones": [
-      "June 30, 2022 \u2014 Governor Newsom signed SB 54 into law",
-      "March 7, 2025 \u2014 Governor Newsom directed CalRecycle to restart rulemaking over cost concerns",
-      "May 1, 2026 \u2014 OAL approved and filed permanent SB 54 regulations; took effect immediately",
-      "June 1, 2026 \u2014 Producer registration and baseline 2023 supply data submission deadline (CAA or CalRecycle)",
-      "June 2, 2026 \u2014 NRDC/Californians Against Waste/Oceana filed state court lawsuit challenging certain regulatory provisions (advanced recycling exemptions)",
-      "June 15, 2026 \u2014 CAA submitted draft California Program Plan to SB 54 Advisory Board; public comment open through August 14, 2026",
-      "June 22, 2026 \u2014 17-state coalition + NAW filed federal lawsuit Nebraska v. Heller challenging SB 54 constitutionality; no injunction issued",
-      "August 14, 2026 \u2014 Public comment deadline on CAA draft program plan",
-      "October 2026 \u2014 CAA to submit final program plan to CalRecycle",
-      "January 1, 2027 \u2014 Full EPR program implementation targeted; $500M/year producer fee regime to begin"
+      "June 30, 2022: Governor Newsom signs SB 54 into law",
+      "January 1, 2025: EPS food service ware sales prohibition takes effect after sector fails 25% recycling rate threshold",
+      "March 7, 2025: Governor Newsom rejects initial CalRecycle draft regulations and orders rulemaking restart",
+      "May 1, 2026: OAL approves permanent SB 54 regulations; regulations take effect immediately",
+      "June 1, 2026: Producer registration deadline (register with CAA, apply as independent producer, or apply for small-producer exemption)",
+      "June 15, 2026: CAA submits draft California Program Plan to SB 54 Advisory Board",
+      "June 22, 2026: 17-state coalition and NAW file federal constitutional challenge to SB 54 in E.D. California",
+      "August 14, 2026: Public comment period on CAA draft Program Plan closes",
+      "October 13, 2026: CAA must submit final Program Plan to CalRecycle",
+      "January 1, 2027: CalRecycle Program Plan approval deadline; full program implementation and sales prohibition for non-compliant producers begins",
+      "January 1, 2032: Final statutory targets due \u2014 100% recyclable/compostable packaging, 65% plastic recycling rate, 25% source reduction vs. 2023 baseline"
     ],
     "sources": [
       {
-        "label": "CalRecycle \u2014 SB 54 Official Program Page",
+        "label": "CalRecycle \u2013 SB 54 Packaging EPR Official Page",
         "url": "https://calrecycle.ca.gov/packaging/packaging-epr/"
       },
       {
-        "label": "Holland & Knight \u2014 California's Final EPR Regulations Now in Effect (May 11, 2026)",
+        "label": "Holland & Knight \u2013 California's Final EPR Regulations Now in Effect (May 11, 2026)",
         "url": "https://www.hklaw.com/en/insights/publications/2026/05/californias-final-epr-regulations-now-in-effect"
       },
       {
-        "label": "Beveridge & Diamond \u2014 Seventeen States and NAW Challenge California's Packaging EPR Law (June 2026)",
-        "url": "https://www.bdlaw.com/publications/seventeen-states-and-naw-challenge-californias-packaging-epr-law/"
+        "label": "Holland & Knight \u2013 States, Industry Groups and Environmental Advocates Challenge California Plastics Rule (June 24, 2026)",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/06/states-industry-groups-and-environmental-advocates-challenge"
       },
       {
-        "label": "Circular Action Alliance \u2014 California Program Plan Public Comment",
-        "url": "https://circularactionalliance.org/ca/program-plan-public-comment"
+        "label": "Mayer Brown \u2013 California's SB 54 EPR Regulations Take Effect (June 12, 2026)",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/californias-sb-54-epr-regulations-take-effect-key-deadlines-and-compliance-obligations-for-producers"
       },
       {
-        "label": "Circular Action Alliance \u2014 CAA Submits California Program Plan Under SB 54 (June 15, 2026)",
-        "url": "https://circularactionalliance.org/news-feed/ca-plan-submission-2026"
+        "label": "Beveridge & Diamond \u2013 CalRecycle Reissues Draft SB 54 Regulations (May 27, 2025)",
+        "url": "https://www.bdlaw.com/publications/calrecycle-reissues-draft-sb-54-regulations-targeting-californias-plastic-packaging-epr-program/"
       },
       {
-        "label": "Foley & Lardner \u2014 17 States Challenge California Packaging Law With National Supply Chain Stakes (June 2026)",
-        "url": "https://www.foley.com/insights/publications/2026/06/17-states-challenge-california-packaging-law-with-national-supply-chain-stakes/"
+        "label": "O'Melveny \u2013 2026 Plastics EPR & Packaging Rules Update",
+        "url": "https://www.omm.com/insights/alerts-publications/2026-plastics-epr-packaging-rules-update-what-sb-54-sb-343-state-reporting-deadlines-prc-laws-the-eu-ppwr-mean-for-producers-retailers/"
       },
       {
-        "label": "Keller and Heckman \u2014 California Packaging EPR Program Faces Legal Challenges (June 2026)",
-        "url": "https://www.khlaw.com/insights/california-packaging-epr-program-faces-legal-challenges"
-      },
-      {
-        "label": "Proskauer \u2014 2025 Guide to EPR Packaging Compliance",
+        "label": "Proskauer \u2013 The 2025 Guide to EPR Packaging Compliance",
         "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
       },
       {
-        "label": "Beveridge & Diamond \u2014 CalRecycle Reissues Draft SB 54 Regulations (May 2025)",
-        "url": "https://www.bdlaw.com/publications/calrecycle-reissues-draft-sb-54-regulations-targeting-californias-plastic-packaging-epr-program/"
+        "label": "Circular Action Alliance \u2013 California Program Plan Public Comment",
+        "url": "https://circularactionalliance.org/ca/program-plan-public-comment"
+      },
+      {
+        "label": "Circular Action Alliance \u2013 California Program Plan Submission (June 15, 2026)",
+        "url": "https://circularactionalliance.org/news-feed/ca-plan-submission-2026"
+      },
+      {
+        "label": "Steptoe \u2013 California SB 54 Status Update and Litigation Overview (July 14, 2026)",
+        "url": "https://www.steptoe.com/en/news-publications/californias-sweeping-packaging-law-under-sb-54-status-update-and-litigation-overview.html"
+      },
+      {
+        "label": "Keller and Heckman \u2013 California Packaging EPR Program Faces Legal Challenges (June 24, 2026)",
+        "url": "https://www.khlaw.com/insights/california-packaging-epr-program-faces-legal-challenges"
       }
     ]
   },
@@ -290,69 +309,59 @@
     "abbr": "MN",
     "name": "Minnesota",
     "stage": "passed",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Minnesota Packaging Waste and Cost Reduction Act (HF 3911 / Minn. Stat. \u00a7 115A.144\u2013115A.1463), signed into law May 21, 2024; active implementation ongoing with MPCA rulemaking initiated May 2026.",
-    "status": "The law is fully enacted and in active implementation. The MPCA completed a preliminary assessment in February 2026 and needs assessment surveys are underway with a final needs assessment due December 31, 2026. On May 15, 2026, the MPCA issued a formal notice of intent to develop rules to clarify definitions, exemptions, and statewide requirements under the Act, representing a significant recent development in implementation. Covered materials broadly include all packaging and packaging components (including plastic film such as boat wrap, single-use bags, food wrapping film, and shipping materials), food packaging, and paper products sold or shipped into Minnesota.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Minnesota Packaging Waste and Cost Reduction Act (Minn. Stat. \u00a7 115A.144\u2013115A.1463), enacted May 21, 2024 as part of omnibus bill HF 3911, is active law. The MPCA issued a rulemaking notice on May 15, 2026 to develop implementing rules, and the Needs Assessment is due December 31, 2026.",
+    "status": "The law is in active implementation. The MPCA issued a notice of intent to develop rules on May 15, 2026 to clarify definitions, exemptions, collection lists, statewide requirements, measurement, and stewardship plan obligations. The Needs Assessment data-gathering phase closed May 8, 2026, with a draft expected before the advisory board in August 2026 and the final Needs Assessment due December 31, 2026. Nine seats on the Packaging EPR Advisory Board are open for terms beginning January 1, 2027, with an application deadline of September 15, 2026.",
     "milestones": [
-      "May 21, 2024: Governor Walz signed HF 3911, enacting the Packaging Waste and Cost Reduction Act",
-      "January 1, 2025: MPCA required to appoint PRO and advisory board",
-      "February 18, 2025: MPCA confirmed Circular Action Alliance (CAA) as Minnesota's sole PRO",
-      "July 1, 2025: Producer registration deadline with CAA (PRO membership required)",
-      "February 2026: MPCA published preliminary assessment",
-      "March 2026: MPCA needs assessment surveys initiated",
-      "May 15, 2026: MPCA issued formal notice of intent to develop implementing rules",
-      "December 31, 2026: Full needs assessment due",
-      "October 1, 2028: PRO stewardship plan due to MPCA",
-      "January 1, 2032: All covered packaging must be reusable, recyclable, compostable, or collected by approved alternative system"
+      "May 21, 2024: Packaging Waste and Cost Reduction Act signed into law by Gov. Tim Walz (HF 3911)",
+      "January 1, 2025: PRO appointment and Advisory Board established",
+      "February 18, 2025: MPCA confirmed Circular Action Alliance (CAA) as the sole registered PRO",
+      "July 1, 2025: Producer registration with CAA deadline passed",
+      "February 2026: Preliminary Assessment published by MPCA/Eunomia",
+      "May 8, 2026: Needs Assessment data-gathering phase closed",
+      "May 15, 2026: MPCA issued notice of intent to develop implementing rules (rulemaking)",
+      "August 2026: Draft Needs Assessment to be presented to Advisory Board",
+      "September 15, 2026: Application deadline for 9 Advisory Board seats (terms starting Jan. 1, 2027)",
+      "December 31, 2026: Final Needs Assessment due",
+      "October 1, 2028: PRO Stewardship Plan due",
+      "January 1, 2032: All covered materials must be reusable, recyclable, compostable, or covered by an approved alternative collection system"
     ],
     "sources": [
       {
-        "label": "Minnesota Pollution Control Agency \u2013 EPR for Packaging (official)",
+        "label": "Minnesota Pollution Control Agency \u2013 EPR for Packaging (official program page)",
         "url": "https://www.pca.state.mn.us/air-water-land-climate/extended-producer-responsibility-for-packaging"
       },
       {
-        "label": "Fredrikson & Byron \u2013 MPCA Intends to Develop Rules (May 2026)",
+        "label": "Minnesota Pollution Control Agency \u2013 Rulemaking: Packaging Waste and Cost Reduction Act",
+        "url": "https://www.pca.state.mn.us/get-engaged/packaging-waste-and-cost-reduction-act"
+      },
+      {
+        "label": "Minnesota Pollution Control Agency \u2013 Assessments",
+        "url": "https://www.pca.state.mn.us/air-water-land-climate/assessments"
+      },
+      {
+        "label": "Fredrikson & Byron \u2013 MPCA Intends to Develop Rules to Implement EPR Law (May 19, 2026)",
         "url": "https://www.fredlaw.com/alert-mpca-intends-to-develop-rules-to-implement-extended-producer-responsibility-law"
       },
       {
-        "label": "Fredrikson & Byron \u2013 Minnesota Enacts EPR Law, Key Compliance Deadlines",
+        "label": "Fredrikson & Byron \u2013 Minnesota Enacts EPR Law: Key Compliance Deadlines Begin July 1, 2025",
         "url": "https://www.fredlaw.com/alert-minnesota-enacts-extended-producer-responsibility-epr-law-key-compliance-deadlines-begin-july-1-2025"
       },
       {
-        "label": "Beveridge & Diamond \u2013 Minnesota Fifth State to Enact EPR Law for Packaging",
+        "label": "Beveridge & Diamond \u2013 Minnesota Becomes Fifth State to Enact EPR Law for Packaging and Paper",
         "url": "https://www.bdlaw.com/publications/minnesota-becomes-fifth-state-to-enact-epr-law-for-packaging-and-paper-first-to-enact-epr-law-for-boat-wrap/"
       },
       {
-        "label": "Proskauer \u2013 2025 Guide to EPR Packaging Compliance",
+        "label": "Proskauer \u2013 The 2025 Guide to EPR Packaging Compliance",
         "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
       },
       {
-        "label": "Circular Action Alliance \u2013 Minnesota EPR Program Page",
+        "label": "Circular Action Alliance \u2013 Minnesota Program Page",
         "url": "https://circularactionalliance.org/circular-action-alliance-minnesota"
       },
       {
-        "label": "Circular Action Alliance \u2013 Producer Registration Now Open for Minnesota",
-        "url": "https://circularactionalliance.org/news-feed/producer-registration-now-open-for-minnesotas-new-packaging-epr-program"
-      },
-      {
-        "label": "Sustainable Packaging Coalition \u2013 Minnesota HF 3911 (2024)",
-        "url": "https://epr.sustainablepackaging.org/policies/HF3911"
-      },
-      {
-        "label": "MPCA \u2013 Packaging Waste and Cost Reduction Act Draft Assessment (Dec 2025)",
-        "url": "https://www.pca.state.mn.us/events-and-meetings/packaging-waste-and-cost-reduction-act-draft-assessment-2025-12-16-0"
-      },
-      {
-        "label": "Resource Recycling \u2013 Minnesota Publishes Prelim EPR Assessment (Feb 2026)",
-        "url": "https://resource-recycling.com/recycling/2026/02/20/minnesota-publishes-prelim-epr-needs-assessment/"
-      },
-      {
-        "label": "Recycling Today \u2013 Needs Assessment Surveys for Minnesota EPR Law Underway (Mar 2026)",
-        "url": "https://www.recyclingtoday.com/news/needs-assessment-surverys-minnesota-epr-law-underway/"
-      },
-      {
-        "label": "CSG Midwest \u2013 Minnesota Implementing EPR for Packaging (Mar 2026)",
-        "url": "https://csgmidwest.org/2026/03/11/most-states-have-some-type-of-extended-producer-responsibility-statute-minnesota-is-implementing-one-new-to-the-midwest-epr-for-packaging/"
+        "label": "Minnesota Legislature \u2013 SF 3561 Bill History (93rd Legislature)",
+        "url": "https://www.revisor.mn.gov/bills/93/2024/0/SF/3561"
       }
     ]
   },
@@ -360,49 +369,48 @@
     "abbr": "IL",
     "name": "Illinois",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Illinois has enacted Public Act 103-0383 (SB 1555, 2023) establishing a Statewide Recycling Needs Assessment Advisory Council \u2014 not a full EPR program. A separate substantive EPR bill, HB 4064 (the Extended Producer Responsibility and Recycling Refund Act), was introduced May 21, 2025, and remains referred to the House Rules Committee with no further action. Earlier shell companion bills SB 1817 and HB 3161 (introduced February 2025) also remain stalled with no activity since introduction.",
-    "status": "Illinois EPA provided the draft Statewide Recycling Needs Assessment (conducted by consultant Eunomia) to the Advisory Council on June 30, 2026; the assessment must be finalized by November 1, 2026, and the Advisory Council must report to the General Assembly and Governor by December 1, 2026. HB 4064, the only substantive EPR packaging bill currently in play, remains in the House Rules Committee at the proposal stage with no new legislative action. No comprehensive packaging EPR law has been enacted in Illinois.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Illinois has no enacted packaging EPR law. Public Act 103-0383 (SB 1555, signed July 2023) established the Statewide Recycling Needs Assessment Advisory Council and directed Illinois EPA to conduct a packaging and paper products needs assessment, with final recommendations due to the General Assembly and Governor by December 1, 2026. Separately, HB 4064 (the Extended Producer Responsibility and Recycling Refund Act), introduced May 21, 2025, is pending in the House Rules Committee with no action since introduction. Senate companion SB 1817 contains only a short-title provision and no substantive text.",
+    "status": "HB 4064 is stalled in the House Rules Committee, with legislative movement effectively gated on the Statewide Recycling Needs Assessment report due December 1, 2026. No producer obligations, fees, or PRO requirements are in effect in Illinois today. The needs assessment advisory council is actively meeting and is expected to deliver policy recommendations that could shape a full EPR bill in the 2027 session.",
     "milestones": [
-      "July 2023: Public Act 103-0383 (SB 1555) signed \u2014 establishes Statewide Recycling Needs Assessment Advisory Council and mandates needs assessment",
-      "June 30, 2026: Illinois EPA delivered draft Statewide Recycling Needs Assessment (by Eunomia) to Advisory Council",
-      "November 1, 2026: Deadline for Illinois EPA to finalize the needs assessment",
-      "December 1, 2026: Advisory Council report with EPR program recommendations due to General Assembly and Governor",
-      "February 2025: Shell companion bills SB 1817 and HB 3161 introduced; no substantive content, no action since introduction",
-      "May 21, 2025: HB 4064 (Extended Producer Responsibility and Recycling Refund Act) introduced and referred to House Rules Committee \u2014 remains pending"
+      "July 2023: SB 1555 signed into law as Public Act 103-0383, establishing the Statewide Recycling Needs Assessment Advisory Council",
+      "February 2025: Companion shell bills SB 1817 and HB 3161 introduced with short-title only; no substantive text",
+      "May 21, 2025: HB 4064 (Extended Producer Responsibility and Recycling Refund Act) introduced with full substantive text; referred to House Rules Committee",
+      "December 1, 2026: Deadline for Illinois EPA and Advisory Council to deliver needs assessment report and EPR policy recommendations to General Assembly and Governor",
+      "As of August 31, 2026: HB 4064 remains pending in Rules Committee with no action since introduction; no enacted EPR law"
     ],
     "sources": [
       {
-        "label": "Proskauer \u2013 EPR Packaging Law Update (July 1, 2026)",
+        "label": "Proskauer Rose \u2013 EPR Packaging Law Update (July 1, 2026)",
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "Beveridge & Diamond \u2013 EPR Packaging and Recycled Content Laws (Feb 2025)",
-        "url": "https://www.bdlaw.com/publications/epr-packaging-and-recycled-content-laws-continue-to-trend-as-legislatures-consider-policies-to-address-packaging-waste-challenges/"
-      },
-      {
-        "label": "Mayer Brown \u2013 EPR Packaging Laws Moving from Concept to Compliance (Feb 2026)",
+        "label": "Mayer Brown \u2013 EPR Packaging Laws Moving from Concept to Compliance (Feb 9, 2026)",
         "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
       },
       {
-        "label": "Illinois EPA \u2013 Statewide Recycling Needs Assessment Advisory Council (official state site)",
-        "url": "https://epa.illinois.gov/topics/waste-management/materials-management/srnaac.html"
+        "label": "Beveridge & Diamond \u2013 EPR Packaging and Recycled Content Laws Update",
+        "url": "https://www.bdlaw.com/publications/epr-packaging-and-recycled-content-laws-continue-to-trend-as-legislatures-consider-policies-to-address-packaging-waste-challenges/"
       },
       {
-        "label": "Justia \u2013 415 ILCS 180 Statewide Recycling Needs Assessment Act (Illinois compiled statutes)",
-        "url": "https://law.justia.com/codes/illinois/chapter-415/act-415-ilcs-180/"
+        "label": "Illinois General Assembly \u2013 HB 4064 Bill Status",
+        "url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4064&GAID=18&DocTypeID=HB&LegId=163849&SessionID=114"
       },
       {
-        "label": "LegiScan \u2013 Illinois HB4064 (104th General Assembly, 2025-2026)",
+        "label": "LegiScan \u2013 Illinois HB4064 (104th General Assembly)",
         "url": "https://legiscan.com/IL/bill/HB4064/2025"
       },
       {
-        "label": "Compliance & Risks \u2013 Packaging EPR Expansion: New Developments Across the U.S. (May 2025)",
-        "url": "https://www.complianceandrisks.com/blog/packaging-epr-expansion-new-developments-across-the-u-s/"
+        "label": "Illinois Circularity Conference \u2013 SRNA Advisory Council Updates (2025)",
+        "url": "https://illinoiscircularityconference.org/2025/2025sessions/Session%207PE%20-%20Is%20There%20a%20Path%20to%20Packaging%20EPR%20in%20Illinois_/Seibert%20-%20SRNA%20Advisory%20Council.pdf"
       },
       {
-        "label": "Illinois EPA \u2013 SRNAAC Meeting #15 Agenda (May 11, 2026)",
-        "url": "https://epa.illinois.gov/content/dam/soi/en/web/epa/topics/waste-management/materials-management/documents/srnaac/051126-Meeting-Agenda.pdf"
+        "label": "Waste Dive \u2013 EPR Retains Packaging Policy Spotlight in 2026",
+        "url": "https://www.yahoo.com/news/articles/epr-retains-packaging-policy-spotlight-100000858.html"
+      },
+      {
+        "label": "Packaging Dive \u2013 Illinois Advances Foam Ban Legislation, Progresses on EPR Study (June 23, 2025)",
+        "url": "https://www.packagingdive.com/news/illinois-packaging-bills-polystyrene-foam-epr-needs-assessment/750836/"
       }
     ]
   },
@@ -410,26 +418,23 @@
     "abbr": "NJ",
     "name": "New Jersey",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "New Jersey S673 / A3744 (\"Packaging and Paper Product Stewardship Act\") \u2014 the 2026-session reintroduction of prior bills S3398 / A5009 \u2014 is pending in the Senate Environment and Energy Committee. No EPR packaging law has been enacted in New Jersey.",
-    "status": "S3398 and A5009 died on January 12, 2026, when the 2024\u20132025 legislative session ended without a floor vote. The bills were reintroduced on January 13, 2026, as S673 / A3744 in the new 2026\u20132027 session and referred to the Senate Environment and Energy Committee, where they remain pending with no further action reported. The legislation would cover all packaging product types \u2014 including primary, secondary, tertiary, and service packaging (carry-out bags, bulk goods bags, take-out bags, home delivery packaging, etc.) \u2014 made of any material, requiring producers to join a PRO or submit their own stewardship plan and meet source-reduction and recyclability targets.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "New Jersey S673 / A3744 (Packaging and Paper Product Stewardship Act) \u2014 carry-over of prior S3398 \u2014 reintroduced January 13, 2026 in the 2026-2027 legislative session; pending in the Senate Environment and Energy Committee with no floor vote taken.",
+    "status": "S673 and companion A3744 were re-filed on January 13, 2026 as carry-overs of S3398 (which cleared the Senate Environment and Energy Committee in February 2025 but stalled before a full floor vote). The bill would require producers of all packaging and paper products to join a PRO or submit their own stewardship plan, mandating a 50% reduction in single-use packaging over ten years, 65% recycling rates, and full recyclability or compostability of all packaging by 2034. As of the most recent reporting (June\u2013July 2026), the bill remains pending in committee with no enacted law; New Jersey is one of only two states whose EPR packaging bills carry over into 2027.",
     "milestones": [
-      "June 2024: S3398 introduced as the 'Packaging and Paper Product Stewardship Act' in the 2024\u20132025 session",
-      "February 10, 2025: S3398 advanced out of the Senate Environment and Energy Committee on a party-line vote after multiple hearings and amendments",
-      "January 12, 2026: S3398 and companion A5009 died at end of 2024\u20132025 legislative session without a full chamber vote",
-      "January 13, 2026: Bills reintroduced as S673 / A3744 in the 2026\u20132027 session; referred to Senate Environment and Energy Committee \u2014 no further action as of August 2026"
+      "S3398 introduced June 2024; advanced out of Senate Environment and Energy Committee February 10, 2025 on a 3-2 party-line vote",
+      "S3398 referred to Senate Budget and Appropriations Committee February 2025; stalled before end of 2024-2025 session (deadline January 13, 2026)",
+      "S673 / A3744 re-filed January 13, 2026 as carry-over of S3398 / A5009 in new 2026-2027 legislative session",
+      "As of July 2026, S673 pending in Senate Environment and Energy Committee; no additional floor action reported",
+      "New Jersey identified as one of only two states (with Virginia) whose EPR packaging bills carry over from 2026 into the 2027 session"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose LLP \u2013 EPR Packaging Law Update (July 2026)",
+        "label": "Proskauer Rose \u2013 EPR Packaging Law Update (July 1, 2026)",
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "Mayer Brown \u2013 EPR Packaging Laws Moving from Concept to Compliance (Feb. 2026)",
-        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
-      },
-      {
-        "label": "LegiScan \u2013 NJ S673 (2026\u20132027 Session)",
+        "label": "LegiScan \u2013 NJ S673 (2026-2027 Regular Session)",
         "url": "https://legiscan.com/NJ/bill/S673/2026"
       },
       {
@@ -437,7 +442,19 @@
         "url": "https://pub.njleg.gov/Bills/2026/S1000/673_I1.HTM"
       },
       {
-        "label": "NJ Senate Democrats \u2013 Senate Environment and Energy Committee Advances S3398 (Feb. 10, 2025)",
+        "label": "Mayer Brown \u2013 EPR Packaging Laws Moving from Concept to Compliance (Feb. 2026)",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
+      },
+      {
+        "label": "Holland & Knight \u2013 The Latest Pandora's Box: State EPR Laws (Jan. 2026)",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 22, 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "NJ Senate Democrats \u2013 Smith Bill Advances (Feb. 10, 2025)",
         "url": "https://www.njsendems.org/CivicAlerts.aspx?AID=609"
       },
       {
@@ -445,12 +462,8 @@
         "url": "https://newjerseymonitor.com/2025/02/10/senate-panel-approves-bill-to-reduce-packaging-waste/"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (May 2026)",
-        "url": "https://sustainablepackaging.org/2026/05/21/packaging-policy-news/"
-      },
-      {
-        "label": "BillTrack50 \u2013 NJ S3398 Bill Detail (showing Dead 01/12/2026)",
-        "url": "https://www.billtrack50.com/billdetail/1740441"
+        "label": "EY \u2013 US Packaging EPR in 2026: Costs and Compliance (June 2026)",
+        "url": "https://www.ey.com/en_us/insights/sustainability/us-packaging-epr-in-2026-costs-and-compliance"
       }
     ]
   },
@@ -458,55 +471,39 @@
     "abbr": "NY",
     "name": "New York",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "New York Packaging Reduction and Recycling Infrastructure Act (PRRIA), S.1464A / A.1749, failed to pass for the third consecutive year after the 2026 legislative session adjourned on June 5\u20136, 2026 without a floor vote in either chamber.",
-    "status": "The amended bill (S.1464A / A.1749A), which covers all packaging including plastic film, bags, and other packaging materials, received nearly 150 amendments in late April 2026 to align with Minnesota and California frameworks, but Assembly Speaker Carl Heastie confirmed it lacked the votes to reach the Assembly floor. The Senate had passed prior versions in both 2024 and 2025, but the Assembly has blocked passage each time. The 2025\u20132026 session has adjourned sine die, meaning the bill is dead for this session and would need to be reintroduced in the next legislative session.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "New York Packaging Reduction and Recycling Infrastructure Act (PRRIA), SB 1464A / A1749A \u2014 failed to pass for the third consecutive session in June 2026; bill remains alive but unenacted, with a new session expected in 2027.",
+    "status": "The 2026 New York legislature adjourned in June 2026 without voting on SB 1464A / A1749A. The amended bill \u2014 which covers all packaging types including plastic film, bags, paper, and other materials, and would require producers with over $5M in annual revenue and more than 2 tons of annual packaging waste to reduce packaging 10% within 3 years and 30% within 12 years \u2014 passed the Senate three consecutive years (2024, 2025, and a version in 2026) but stalled in the Assembly each time. In late April 2026, sponsors introduced nearly 150 amendments aligning definitions and timelines with Minnesota and California, removing five toxic substances, and consolidating enforcement under DEC and the Attorney General; those changes were not sufficient to secure Assembly passage before adjournment.",
     "milestones": [
-      "January 2025: S.1464 / A.1749 reintroduced in the 2025\u20132026 legislative session by Sen. Harckham and Assemblymember Glick",
-      "April 29, 2026: Sponsors announced ~150 amendments to PRRIA (S.1464A / A.1749A), aligning timelines and definitions with Minnesota and California EPR laws",
-      "May\u2013June 2026: Coalition of 80+ business associations issued formal opposition memo; Assembly Speaker signaled bill lacked votes",
-      "June 5\u20136, 2026: NY legislature adjourned without floor vote in either chamber \u2014 bill died for third consecutive year"
+      "Jan 2025: SB 1464 / A1749 introduced in 2025\u20132026 session by Sen. Harckham and Assemblymember Glick",
+      "2024 and 2025: Prior versions passed the NY Senate but stalled in the Assembly",
+      "Apr 29, 2026: Sponsors announced ~150 amendments (bill renumbered SB 1464A / A1749A), aligning with MN/CA EPR frameworks, adjusting timelines, removing 5 toxic substances, eliminating Toxic Packaging Task Force",
+      "June 2026: NY legislature adjourned without voting on bill \u2014 third consecutive year bill failed to clear the Assembly"
     ],
     "sources": [
       {
-        "label": "NY Senate Official Press Release \u2013 Harckham/Glick Amendments (April 29, 2026)",
+        "label": "NY Senate Official Press Release \u2013 Harckham/Glick Amendments (Apr 29, 2026)",
         "url": "https://www.nysenate.gov/newsroom/press-releases/2026/pete-harckham/harckham-glick-introduce-amendments-packaging-reduction"
       },
       {
-        "label": "NY Senate Bill S1464A Text",
+        "label": "NY Senate Bill S1464A \u2013 Full Text",
         "url": "https://www.nysenate.gov/legislation/bills/2025/S1464/amendment/A"
       },
       {
-        "label": "Packaging Dive \u2013 New York packaging EPR bill won't move forward in 2026 (June 5, 2026)",
+        "label": "Waste Dive \u2013 New York EPR bill won't move forward this year (Jun 5, 2026)",
+        "url": "https://www.wastedive.com/news/new-york-epr-packaging-2026-fails-bottle-bill-dsny/822110/"
+      },
+      {
+        "label": "Packaging Dive \u2013 New York packaging EPR bill won't move forward in 2026 (Jun 5, 2026)",
         "url": "https://www.packagingdive.com/news/new-york-epr-packaging-2026-fails-bottle-bill-dsny/822145/"
       },
       {
-        "label": "Packaging Strategies \u2013 New York Legislature Adjourns without Passing Packaging EPR Bill (June 8, 2026)",
-        "url": "https://www.packagingstrategies.com/articles/106491-new-york-legislature-adjourns-without-passing-packaging-epr-bill"
-      },
-      {
-        "label": "Packaging Technology Today \u2013 New York Packaging EPR Bills Fail Again (June 15, 2026)",
-        "url": "https://www.packagingtechtoday.com/materials/flexible/unreasonable-new-york-packaging-epr-bills-fail-again/"
-      },
-      {
-        "label": "NCA (Candy USA) \u2013 New York Packaging EPR Bills Fail In Third Attempt (June 9, 2026)",
-        "url": "https://candyusa.com/cst/new-york-packaging-epr-bills-fail-in-third-attempt/"
-      },
-      {
-        "label": "Resource Recycling \u2013 New York packaging EPR bill faces June 10 deadline (May 26, 2026)",
-        "url": "https://resource-recycling.com/recycling/2026/05/26/new-york-packaging-epr-bill-faces-june-10-deadline/"
-      },
-      {
-        "label": "Resource Recycling \u2013 New York packaging EPR bill gets nearly 150 amendments (May 1, 2026)",
-        "url": "https://resource-recycling.com/recycling/2026/05/01/new-york-packaging-epr-bill-gets-nearly-150-amendments/"
-      },
-      {
-        "label": "Recycling Today \u2013 New York EPR bill undergoes sweeping amendments (May 5, 2026)",
+        "label": "Recycling Today \u2013 NY EPR bill undergoes sweeping amendments (May 5, 2026)",
         "url": "https://www.recyclingtoday.com/news/new-york-packaging-epr-bill-undergoes-sweeping-amendments/"
       },
       {
-        "label": "Proskauer \u2013 2025 Guide to EPR Packaging Compliance",
-        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
+        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Tracker",
+        "url": "https://epr.sustainablepackaging.org/policies"
       }
     ]
   },
@@ -514,43 +511,57 @@
     "abbr": "HI",
     "name": "Hawaii",
     "stage": "passed",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Hawaii HB 750 signed into law May 27, 2025, requiring the Department of Health to conduct a statewide needs assessment for a potential packaging EPR program covering packaging materials and paper products (including all packaging types such as bags, film, and paper); assessment due to the Legislature by December 31, 2027. A separate full EPR bill, HB 1264, was introduced January 22, 2025, stalled in committee, and was carried over to the 2026 Regular Session where it remains pending with no further advancement reported.",
-    "status": "HB 750 is enacted law: the Hawaii Department of Health began needs assessment work on July 1, 2025, supported by an advisory council and $1.5 million in annual funding for FY2026 and FY2027, with findings due to the Legislature by December 31, 2027. HB 1264, a full EPR program bill covering all packaging types including bags, was carried over to the 2026 Regular Session on December 8, 2025, but has not advanced beyond committee referral. No new EPR packaging bills have been introduced or passed in Hawaii in the 30 days prior to this check.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "HB 750 (Act 103, Session Laws of Hawaii 2025) signed into law May 27, 2025. Requires the Hawaii Department of Health to conduct a statewide packaging EPR needs assessment covering packaging materials (paper, paperboard, cardboard, plastics, glass, metal, and mixed materials) and paper products. A companion full EPR bill, HB 1264, was introduced in the 2025 session but did not advance beyond committee referral. The 2026 legislative session adjourned sine die without new packaging EPR legislation passing; four non-binding labeling study resolutions introduced in March 2026 also did not advance. The needs assessment advisory board held its first meeting in late summer 2026 and is actively assembling.",
+    "status": "HB 750 (Act 103) is enacted law; the Hawaii Department of Health began needs assessment work in July 2025 and the advisory council had its first formal meeting in late August/early September 2026. The final needs assessment report is due to the legislature by December 31, 2027. No comprehensive EPR program legislation has been enacted; Hawaii remains in a pre-EPR study phase.",
     "milestones": [
-      "May 27, 2025: Governor Josh Green signed HB 750 into law, establishing a statewide packaging and paper products EPR needs assessment",
-      "July 1, 2025: Hawaii Department of Health commenced needs assessment work with advisory council formation",
-      "December 8, 2025: HB 1264 (full EPR program bill covering all packaging types including bags) carried over to 2026 Regular Session, still pending in committee",
-      "December 31, 2027: Deadline for needs assessment findings to be reported to the Hawaii Legislature"
+      "May 27, 2025: Gov. Josh Green signed HB 750 (Act 103) into law \u2014 mandates statewide packaging EPR needs assessment covering all packaging material types including paper, plastics, cardboard, and mixed materials",
+      "July 2025: Hawaii Department of Health began needs assessment work per Act 103",
+      "2025 session: HB 1264 (full EPR program bill covering primary, secondary, and tertiary packaging including bags) introduced but stalled in committee; did not pass",
+      "March 2026: Four non-binding labeling study resolutions (SCR 136, SR 128, HR 195, HCR 205) introduced; all lapsed when legislature adjourned sine die May 8, 2026",
+      "August/September 2026: Packaging Materials and Paper Products Needs Assessment Advisory Council held its first meeting; next meeting anticipated October 2026",
+      "December 31, 2027: Statutory deadline for DOH to submit completed needs assessment to the Hawaii Legislature"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose \u2013 EPR Packaging Law Update",
-        "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
+        "label": "Hawaii Legislature \u2014 HB 750 Bill Text (Session 2025)",
+        "url": "https://data.capitol.hawaii.gov/sessions/session2025/bills/HB750_.HTM"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Guide",
-        "url": "https://epr.sustainablepackaging.org/policies"
+        "label": "Hawaii Legislature \u2014 HB 1264 Bill Text (Session 2025)",
+        "url": "https://data.capitol.hawaii.gov/sessions/session2025/bills/HB1264_.HTM"
       },
       {
-        "label": "Packaging Dive \u2013 Hawaii Governor Signs HB 750",
-        "url": "https://www.packagingdive.com/news/hawaii-recycling-needs-assessment-packaging-epr/749515/"
+        "label": "State of Hawaii Public Meetings Calendar \u2014 Packaging EPR Advisory Council",
+        "url": "https://calendar.ehawaii.gov/calendar/meeting/77729/details.html"
       },
       {
-        "label": "National Law Review \u2013 Hawaii Signs EPR Assessment Law",
+        "label": "Proskauer Rose LLP \u2014 The 2025 Guide to EPR Packaging Compliance",
+        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
+      },
+      {
+        "label": "O'Melveny \u2014 2026 Plastics EPR & Packaging Rules Update",
+        "url": "https://www.omm.com/insights/alerts-publications/2026-plastics-epr-packaging-rules-update-what-sb-54-sb-343-state-reporting-deadlines-prc-laws-the-eu-ppwr-mean-for-producers-retailers/"
+      },
+      {
+        "label": "Hunton Andrews Kurth \u2014 EPR for Packaging Mid-Year Update (2025)",
+        "url": "https://www.hunton.com/the-nickel-report/extended-producer-responsibility-for-packaging-mid-year-update"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2014 Packaging Policy Roundup (June 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2014 Packaging Policy Roundup (April 2026)",
+        "url": "https://sustainablepackaging.org/2026/04/29/packaging-policy-news/"
+      },
+      {
+        "label": "Keller and Heckman Packaging Law / National Law Review \u2014 Hawaii to Assess Establishment of EPR Program",
         "url": "https://natlawreview.com/article/hawaii-assess-establishment-epr-program-reduce-packaging-and-paper-waste"
       },
       {
-        "label": "Hawaii State Legislature \u2013 HB 1264 (2026 Session)",
-        "url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1264&year=2026"
-      },
-      {
-        "label": "Hawaii State Legislature \u2013 HB 750 (2025 Session, Legiscan text)",
+        "label": "LegiScan \u2014 Hawaii HB 750 (2025 Regular Session)",
         "url": "https://legiscan.com/HI/text/HB750/id/3120660"
-      },
-      {
-        "label": "BillTrack50 \u2013 HI HB1264",
-        "url": "https://www.billtrack50.com/billdetail/1799582"
       }
     ]
   },
@@ -558,18 +569,18 @@
     "abbr": "NC",
     "name": "North Carolina",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "North Carolina HB 882, 'Break Free From Plastic & Forever Chemicals,' introduced April 2025, would establish an EPR program for packaging materials, ban PFAS and other toxic substances from packaging, and require producers to join a Producer Responsibility Organization; the bill remains stalled in the House Rules, Calendar, and Operations Committee.",
-    "status": "HB 882 was filed in April 2025 and referred to the House Rules Committee on April 10, 2025, where it has stalled with no further action recorded. An earlier version of the same bill died in the same committee in the 2023 session (H 279), and a prior version also failed in 2021-2022 (H 1113). As of the most recent reporting in June-July 2026, no advancement out of committee has occurred.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "North Carolina HB 882 (Break Free From Plastic & Forever Chemicals Act, 2025-2026 session) \u2014 pending in the House Rules, Calendar, and Operations Committee; no passage.",
+    "status": "HB 882 was introduced on April 9, 2025, and referred to the House Rules, Calendar, and Operations Committee on April 10, 2025, where it has stalled. The bill would establish a full EPR framework for all packaging materials (including plastic film, poly bags, paper, and other packaging types), require producers to join a Producer Responsibility Organization, mandate post-consumer content targets, ban PFAS and other toxic substances in packaging, and appropriate $100,000 to DEQ for implementation. As of the most recent tracking through mid-2026, no further committee action or floor vote has occurred, and the bill remains at 25% progression with no amendments or renumbering reported.",
     "milestones": [
-      "April 2025: HB 882 'Break Free From Plastic & Forever Chemicals' filed in NC House for the 2025-2026 session",
-      "April 10, 2025: Bill referred to House Rules, Calendar, and Operations Committee \u2014 last recorded action",
-      "June 2026: Bill remains stalled in committee with no reported advancement",
-      "Prior versions (H 1113 in 2021-2022, H 279 in 2023) both died in the same committee"
+      "April 9, 2025: HB 882 introduced by Rep. Pricey Harrison and co-sponsors (all Democrats)",
+      "April 10, 2025: Referred to House Rules, Calendar, and Operations Committee",
+      "Bill stalled in committee as of July 2026 \u2014 a prior version of the bill also died in the same committee in 2023",
+      "No floor vote, amendment, or renumbering recorded through September 2026"
     ],
     "sources": [
       {
-        "label": "NC General Assembly \u2013 HB 882 Bill Lookup (Official)",
+        "label": "NC General Assembly \u2013 HB 882 Bill Lookup (official)",
         "url": "https://www.ncleg.gov/BillLookup/2025/H882"
       },
       {
@@ -581,12 +592,16 @@
         "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
       },
       {
-        "label": "Proskauer Rose \u2013 2025 Guide to EPR Packaging Compliance",
-        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
+        "label": "LegiScan \u2013 NC H882 2025-2026 Regular Session",
+        "url": "https://legiscan.com/NC/bill/H882/2025"
       },
       {
-        "label": "UNC Legislative Reporting Service \u2013 H 882 Bill Summary",
+        "label": "UNC Legislative Reporting Service \u2013 Bill Summary H 882 (2025-2026)",
         "url": "https://lrs.sog.unc.edu/billsum/h-882-2025-2026"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Tracker",
+        "url": "https://epr.sustainablepackaging.org/policies"
       },
       {
         "label": "North Carolina Health News \u2013 Push to Hold Plastics Producers Accountable (June 2026)",
@@ -619,63 +634,52 @@
     "abbr": "RI",
     "name": "Rhode Island",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Rhode Island H6207 (Needs Assessment/Study Law) was signed into law June 30, 2025. Separate full EPR packaging bills H.B. 7910 and S.B. 2656, introduced February 27, 2026, are pending in committee and have not passed.",
-    "status": "H6207, signed by Gov. Dan McKee on June 30, 2025, converted what had been a full EPR-plus-bottle-bill proposal into a statewide recycling needs assessment law, requiring the Rhode Island Department of Environmental Management to hire a third-party consultant by October 29, 2025, with a final report due December 1, 2026. In the 2026 session, two new full EPR packaging bills\u2014H.B. 7910 and S.B. 2656\u2014were introduced on February 27, 2026, covering all packaging and paper products; H.B. 7910 received a committee hearing on May 27, 2026, and S.B. 2656 remained under committee review, with no floor votes taken. Stakeholders and legislators are largely deferring action on the full EPR bills pending completion of the DEM consultant's needs assessment report, expected December 1, 2026.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Rhode Island H 6207 (EPR needs assessment) signed into law June 30, 2025. Full EPR packaging bills H 7910, S 2656, and H 7911 introduced February 27, 2026; H 7910 and H 7911 received a committee hearing on May 27, 2026 and were held for further study; S 2656 remains under committee review. No full EPR program has been enacted.",
+    "status": "H 6207, signed by Gov. Dan McKee on June 30, 2025, mandates a third-party statewide recycling and waste-management gap analysis with the final needs assessment report due to the Governor by December 1, 2026 (draft due to RIDEM September 1, 2026). Three full packaging EPR bills \u2014 H 7910, S 2656, and H 7911 \u2014 were introduced in the 2026 session on February 27, 2026; H 7910 and H 7911 were heard by the House Environment and Natural Resources Committee on May 27, 2026 and recommended to be held for further study, while S 2656 remains under committee review. Rhode Island currently has no operative EPR program and no producer compliance obligations.",
     "milestones": [
-      "H6207 signed into law by Gov. McKee on June 30, 2025, establishing a packaging/recycling needs assessment with consultant report due December 1, 2026",
-      "Full EPR packaging bills H.B. 7910 and S.B. 2656 introduced February 27, 2026, covering all packaging and paper products",
-      "H.B. 7910 received a House Environment and Natural Resources Committee hearing on May 27, 2026; S.B. 2656 remains in committee",
-      "No full EPR law passed; legislative activity largely paused pending DEM needs assessment report due December 1, 2026"
+      "H 6207 (needs assessment law) signed by Gov. McKee on June 30, 2025",
+      "Needs assessment draft report due to RIDEM September 1, 2026; final report due to Governor December 1, 2026",
+      "H 7910, S 2656, and H 7911 (full packaging EPR bills) introduced February 27, 2026",
+      "H 7910 and H 7911 heard by House Environment and Natural Resources Committee on May 27, 2026; both recommended held for further study",
+      "S 2656 remains under Senate committee review as of last available data"
     ],
     "sources": [
       {
-        "label": "Legiscan \u2013 Rhode Island H6207 (2025)",
-        "url": "https://legiscan.com/RI/bill/H6207/2025"
+        "label": "Proskauer Rose \u2013 EPR Packaging Law Update (July 2026)",
+        "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "RI Legislature \u2013 H6207 Substitute A As Amended (official bill text)",
-        "url": "https://webserver.rilegislature.gov/BillText25/HouseText25/H6207Aaa.htm"
-      },
-      {
-        "label": "RI DEM \u2013 Statewide Implementation Analysis (SIA) page",
-        "url": "https://dem.ri.gov/about-us/featured-initiatives/beverage-container-recycling-redemption-study"
-      },
-      {
-        "label": "Waste Dive \u2013 Rhode Island lawmakers replace EPR and bottle bill proposal with study bill (June 26, 2025)",
-        "url": "https://www.wastedive.com/news/rhode-island-study-bill-recycling-epr-bottle-bill-to-governor/751734/"
-      },
-      {
-        "label": "Hunton (law firm) \u2013 EPR for Packaging Mid-Year Update (Sept. 2025)",
-        "url": "https://www.hunton.com/the-nickel-report/extended-producer-responsibility-for-packaging-mid-year-update"
-      },
-      {
-        "label": "Sustainable Packaging Coalition \u2013 EPR Guide to All Policies (lists RI H.B. 7910, S.B. 7911, S.B. 2656)",
+        "label": "Sustainable Packaging Coalition \u2013 EPR Guide to All Policies",
         "url": "https://epr.sustainablepackaging.org/policies"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (Apr. 2026)",
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (April 2026)",
         "url": "https://sustainablepackaging.org/2026/04/29/packaging-policy-news/"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
-        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+        "label": "Packaging Dive \u2013 EPR retains packaging policy spotlight in 2026",
+        "url": "https://www.packagingdive.com/news/packaging-policy-regulation-2026-extended-producer-responsibility-labeling/810561/"
       },
       {
-        "label": "FEDA \u2013 Missouri, Rhode Island Weigh EPR Laws Targeting Packaging (Apr. 20, 2026)",
-        "url": "https://www.feda.com/news/missouri-rhode-island-weigh-epr-laws-targeting-packaging"
+        "label": "BillTrack50 \u2013 RI H7911 status (held for further study 05/27/2026)",
+        "url": "https://www.billtrack50.com/billdetail/1981905"
       },
       {
-        "label": "RI Legislature \u2013 Beyond Plastics opposition memo on H.7910 (May 27, 2026 committee hearing)",
+        "label": "LegiScan \u2013 Rhode Island H7910 (2026 Regular Session)",
+        "url": "https://legiscan.com/RI/bill/H7910/2026"
+      },
+      {
+        "label": "RI Legislature \u2013 Beyond Plastics opposition memo on H 7910 (May 27, 2026)",
         "url": "https://www.rilegislature.gov/Special/comdoc/House%20Environment%20and%20Natural%20Resources%202026/05-27-2026--H7910--Johnathan_Berard(Beyond%20Plastics)--enr.pdf"
       },
       {
-        "label": "Rhode Island Current \u2013 Bottle bill/EPR push in 2026 session (May 28, 2026)",
-        "url": "https://rhodeislandcurrent.com/2026/05/28/the-pressures-off-but-the-push-for-a-bottle-bill-is-still-on-this-legislative-session/"
+        "label": "ecoRI News \u2013 Bottle Bill, EPR Again Topics of Debate with No Resolution in Sight (May 2026)",
+        "url": "https://ecori.org/bottle-bill-epr-programs-once-again-topics-of-debate-in-legislature-with-no-resolution/"
       },
       {
-        "label": "Packaging Dive \u2013 EPR retains packaging policy spotlight in 2026 (Jan. 30, 2026)",
-        "url": "https://www.packagingdive.com/news/packaging-policy-regulation-2026-extended-producer-responsibility-labeling/810561/"
+        "label": "Bergeson & Campbell / National Law Review \u2013 Snapshot of EPR in 2025",
+        "url": "https://natlawreview.com/article/snapshot-extended-producer-responsibility-2025"
       }
     ]
   },
@@ -683,44 +687,43 @@
     "abbr": "CT",
     "name": "Connecticut",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "No packaging EPR law has passed in Connecticut. HB 6917 (2025), a feasibility study bill for consumer packaging EPR, was tabled to the Senate calendar on June 4, 2025, and did not advance to enactment. A follow-on bill, HB 5151 (2026), which would have required EPR recommendations based on Connecticut's waste characterization study, was introduced February 11, 2026, but died in committee. Connecticut is not among the seven states with enacted packaging EPR laws.",
-    "status": "Connecticut's 2025 packaging EPR activity was limited to HB 6917 (Substitute), which would have mandated a study on the need and viability of packaging EPR for consumer packaging by January 15, 2027; the bill was tabled to the Senate calendar on June 4, 2025, the final day of the legislative session, and did not become law. In the 2026 session, HB 5151 was introduced to advance EPR recommendations derived from the state's waste characterization study but died in committee. Connecticut's 2026 session has concluded with no packaging EPR bill enacted, and any new bill would need to be reintroduced in 2027.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Connecticut has no enacted packaging EPR law. HB 6917 (2025), which called for a feasibility study on packaging EPR, passed the House 138-0 but died on the Senate calendar. In the 2026 session, HB 5151 \u2014 which would have required EPR-related recommendations based on Connecticut's waste characterization study \u2014 also died in committee. Connecticut SB 457, signed June 4, 2026, addresses the state's bottle bill (beverage container producer responsibility) and is a separate instrument from broad packaging EPR.",
+    "status": "Connecticut has no packaging EPR law and no enacted packaging EPR study mandate as of September 2026. The 2025 substitute HB 6917 passed the House unanimously but died on the Senate calendar; the 2026 HB 5151 died in committee when the legislative session ended. Connecticut is characterized by industry observers as a state that could see a packaging EPR bill advance in 2027 or 2028 but has not done so yet.",
     "milestones": [
-      "Feb 2025: HB 6917 introduced; called for packaging EPR feasibility study with report due Jan 15, 2027",
-      "June 4, 2025: HB 6917 tabled to Senate calendar on final day of session; did not advance to enactment",
-      "Feb 11, 2026: HB 5151 introduced, would have required EPR recommendations from waste characterization study",
-      "2026 session concluded: HB 5151 died in committee; no packaging EPR legislation enacted",
-      "Post-2026: Any new Connecticut packaging EPR bill must be reintroduced in 2027 session"
+      "2025: HB 6917 (Substitute) \u2014 packaging EPR feasibility study bill \u2014 passed House 138-0, tabled June 4, 2025 on Senate calendar, died without Senate vote",
+      "2026: HB 5151 \u2014 EPR-related recommendations bill \u2014 introduced February 11, 2026, died in committee at end of 2026 session",
+      "2026: SB 457 signed June 4, 2026 \u2014 addresses beverage container bottle bill/producer stewardship program; not a broad packaging EPR law",
+      "No packaging EPR law or enacted study mandate exists in Connecticut as of September 2026; any new bill must be reintroduced in 2027"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose LLP \u2013 EPR Packaging Law Update (July 2026)",
+        "label": "Proskauer Rose LLP \u2014 EPR Packaging Law Update (July 2026)",
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "National Law Review / Bergeson & Campbell \u2013 Snapshot of EPR in 2025",
+        "label": "National Law Review / Bergeson & Campbell \u2014 Snapshot of EPR in 2025",
         "url": "https://natlawreview.com/article/snapshot-extended-producer-responsibility-2025"
       },
       {
-        "label": "Connecticut General Assembly \u2013 HB 6917 Bill Status (2025)",
-        "url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB06917&which_year=2025"
+        "label": "Policy Pickup (Substack) \u2014 2026 Session Bill Breakdown",
+        "url": "https://policypickup.substack.com/p/weekly-policy-pickup-cb0"
       },
       {
-        "label": "Compliance & Risks \u2013 Packaging EPR Expansion: New Developments Across the U.S.",
-        "url": "https://www.complianceandrisks.com/blog/packaging-epr-expansion-new-developments-across-the-u-s/"
-      },
-      {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
+        "label": "Sustainable Packaging Coalition \u2014 Packaging Policy Roundup (June 2026)",
         "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
       },
       {
-        "label": "Connecticut DEEP \u2013 Extended Producer Responsibility and Product Stewardship",
-        "url": "https://portal.ct.gov/DEEP/P2/Product-Stewardship/Product-Stewardship"
+        "label": "Connecticut General Assembly \u2014 SB 457 Bill Status",
+        "url": "https://www.cga.ct.gov/asp/CGABillStatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB457"
       },
       {
-        "label": "O'Melveny \u2013 2026 Plastics EPR & Packaging Rules Update",
-        "url": "https://www.omm.com/insights/alerts-publications/2026-plastics-epr-packaging-rules-update-what-sb-54-sb-343-state-reporting-deadlines-prc-laws-the-eu-ppwr-mean-for-producers-retailers/"
+        "label": "Connecticut DEEP \u2014 Extended Producer Responsibility and Product Stewardship",
+        "url": "https://portal.ct.gov/deep/p2/product-stewardship/product-stewardship"
+      },
+      {
+        "label": "PPAI \u2014 10 States to Watch for New Packaging EPR Laws in 2026",
+        "url": "https://www.ppai.org/media-hub/10-states-to-watch-for-new-packaging-epr-laws-in-2026/"
       }
     ]
   },
@@ -772,26 +775,46 @@
     "abbr": "GA",
     "name": "Georgia",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Georgia HB 1237, the Pollution Prevention and Producer Responsibility Act of 2026, was introduced on February 6, 2026, and died in committee without advancing.",
-    "status": "HB 1237 would have amended Chapter 8 of Title 12 of the Official Code of Georgia Annotated to establish a comprehensive EPR framework covering packaging, paper products, and beverage containers, with a Producer Responsibility Advisory Board, recycling and composting standards, toxin reduction requirements, and reporting and enforcement provisions. The bill was referred to the House Natural Resources and Environment Committee after second readers on February 10, 2026, but died in committee and did not advance further. No EPR packaging law has been enacted in Georgia.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Georgia HB 1237 (Pollution Prevention and Producer Responsibility Act of 2026) was introduced February 6, 2026, and died in committee when the 2026 legislative session adjourned Sine Die on April 2\u20133, 2026. No Georgia EPR packaging law has been enacted. The bill would need to be reintroduced in the 2027 session.",
+    "status": "HB 1237 proposed a comprehensive EPR framework for packaging, paper products, and beverage containers sold or distributed in Georgia, including a Producer Responsibility Advisory Board, recycling and composting standards, and a beverage container deposit-return system. After being filed in the House Hopper and advanced to House Second Readers on February 10, 2026, it died in committee without reaching a vote. The Georgia 2025\u20132026 regular session is confirmed adjourned Sine Die; any reintroduction would require a new bill in 2027.",
     "milestones": [
-      "February 6, 2026: HB 1237 (Pollution Prevention and Producer Responsibility Act of 2026) introduced in the Georgia House",
-      "February 10, 2026: Bill referred to House Natural Resources and Environment Committee after second readers",
-      "Bill died in committee \u2014 no further legislative action taken"
+      "February 6, 2026: HB 1237 introduced in Georgia House, titled Pollution Prevention and Producer Responsibility Act of 2026",
+      "February 10, 2026: Bill advanced to House Second Readers, pending House Natural Resources and Environment Committee",
+      "April 2\u20133, 2026: Georgia Legislature adjourned Sine Die; HB 1237 died in committee without passing"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose LLP \u2013 EPR Packaging Law Update (July 1, 2026)",
+        "label": "Proskauer Rose LLP \u2013 EPR Packaging Law Update (July 2026)",
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "LegiScan \u2013 Georgia HB1237 (2025-2026 Regular Session)",
+        "label": "LegiScan \u2013 Georgia HB1237 Bill Tracking (2025\u20132026 Session)",
         "url": "https://legiscan.com/GA/bill/HB1237/2025"
       },
       {
-        "label": "EY \u2013 US Packaging EPR in 2026: Costs and Compliance",
+        "label": "RegASK \u2013 Georgia HB 1237 Bill Analysis (February 2026)",
+        "url": "https://regask.com/georgia-house-bill-1237-proposes-extended-producer-responsibility-for-packaging-and-beverage-containers/"
+      },
+      {
+        "label": "EY \u2013 US Packaging EPR in 2026: Costs and Compliance (June 2026)",
         "url": "https://www.ey.com/en_us/insights/sustainability/us-packaging-epr-in-2026-costs-and-compliance"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (April 2026)",
+        "url": "https://sustainablepackaging.org/2026/04/29/packaging-policy-news/"
+      },
+      {
+        "label": "EPR Atlas \u2013 U.S. Packaging EPR Regulations by State (2026 Tracker)",
+        "url": "https://epratlas.com/"
+      },
+      {
+        "label": "Atlanta Civic Circle \u2013 Georgia Legislature Sine Die 2026 (April 2026)",
+        "url": "https://atlantaciviccircle.org/2026/04/03/georgia-legislature-sine-die-2026/"
+      },
+      {
+        "label": "Ballotpedia \u2013 2026 Georgia Legislative Session",
+        "url": "https://ballotpedia.org/2026_Georgia_legislative_session"
       }
     ]
   },
@@ -849,34 +872,38 @@
     "abbr": "MI",
     "name": "Michigan",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Michigan HB 5902 (2024), a comprehensive packaging EPR bill covering all packaging types (including plastic film, bags, paper, and mesh), did not pass in the 2023\u20132024 legislative session. No new Michigan packaging EPR bill has been identified as introduced or advancing in the 2025\u20132026 session.",
-    "status": "HB 5902, introduced July 31, 2024 by Rep. Abraham Aiyash (D) and referred to the House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation, did not advance before the end of the 2023\u20132024 legislative session. As of mid-2026, Michigan has no enacted comprehensive packaging EPR law and no successor bill has been identified as introduced in the current session. Michigan remains listed among states with active recycling-related bills, but no new packaging EPR bill number for the 2025\u20132026 session has been confirmed.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Michigan HB 5902 (2024), a comprehensive packaging EPR bill covering all packaging types, was introduced in July 2024 but did not pass before the end of the 2024 legislative session and has not been enacted. No new Michigan packaging EPR bill has been introduced in the 2025\u20132026 session.",
+    "status": "HB 5902, introduced July 31, 2024 by Rep. Abraham Aiyash (D) and referred to the House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation, did not advance and did not pass. As of mid-2026, Michigan has no enacted comprehensive packaging EPR law, and no new or reintroduced Michigan packaging EPR bill has been identified in the current 2025\u20132026 legislative session. Michigan is listed among states still monitored for potential future activity, with advocates noting ongoing interest but no imminent legislative vehicle.",
     "milestones": [
-      "July 31, 2024: HB 5902 introduced by Rep. Abraham Aiyash (D); covered all packaging types, excluded deposit beverage containers; referred to House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation",
-      "End of 2023\u20132024 legislative session: HB 5902 did not pass; no enacted Michigan packaging EPR law as of mid-2026",
-      "March 2026: CSG Midwest confirms HB 5902 introduced but not advanced; no new Michigan packaging EPR bill reported for 2025\u20132026 session"
+      "July 31, 2024: HB 5902 introduced by Rep. Aiyash; referred to House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation",
+      "End of 2024 legislative session: HB 5902 did not pass; bill expired without enactment",
+      "2025\u20132026 session: No new Michigan packaging EPR bill introduced as of September 2026"
     ],
     "sources": [
       {
-        "label": "Michigan Legislature \u2013 HB 5902 (2024) Official Bill Page",
+        "label": "Michigan Legislature \u2013 HB 5902 (2024) official bill page",
         "url": "https://www.legislature.mi.gov/Bills/Bill?ObjectName=2024-HB-5902"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Guide (Michigan HB 5902 status: Introduced)",
+        "url": "https://epr.sustainablepackaging.org/policies"
       },
       {
         "label": "CSG Midwest \u2013 EPR for Packaging in the Midwest (March 2026)",
         "url": "https://csgmidwest.org/2026/03/11/most-states-have-some-type-of-extended-producer-responsibility-statute-minnesota-is-implementing-one-new-to-the-midwest-epr-for-packaging/"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Guide (Michigan HB 5902 entry)",
-        "url": "https://epr.sustainablepackaging.org/policies"
+        "label": "Proskauer \u2013 2025 Guide to EPR Packaging Compliance",
+        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (Sept 2025)",
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (September 2025)",
         "url": "https://sustainablepackaging.org/2025/09/23/packaging-policy-news/"
       },
       {
-        "label": "Proskauer \u2013 2025 Guide to EPR Packaging Compliance",
-        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (June 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
       }
     ]
   },
@@ -884,34 +911,41 @@
     "abbr": "MO",
     "name": "Missouri",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Missouri HB 3504, the 'Producer Responsibility Program for Statewide Recycling Act,' was introduced on February 26, 2026 and referred to the House Emerging Issues Committee on May 15, 2026. The 2026 regular session has since adjourned (sine die) without the bill advancing further.",
-    "status": "HB 3504 would require producers of packaging and paper products \u2014 including all packaging material types \u2014 to join or form a nonprofit Producer Responsibility Organization (PRO) that funds and manages a statewide recycling system. The bill is a partisan Democratic-sponsored measure and did not meaningfully advance, remaining in early committee stage at adjournment. Missouri is considered a political longshot for EPR passage in the near term.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Missouri HB 3504 (2026), the 'Producer Responsibility Program for Statewide Recycling Act,' was introduced on February 26, 2026 and died in committee when the 2026 legislative session adjourned sine die on May 15, 2026. No EPR packaging law has been enacted in Missouri.",
+    "status": "HB 3504 would have required producers of packaging and paper products \u2014 including all packaging materials \u2014 to join or form a nonprofit Producer Responsibility Organization (PRO) to fund and manage a statewide recycling system. The bill was referred to the House Emerging Issues Committee (last recorded action May 15, 2026) and did not advance before the session adjourned. Missouri remains a 'watch' state with no enacted EPR packaging legislation; any reintroduction would occur in the 2027 session.",
     "milestones": [
-      "February 26, 2026: HB 3504 introduced in the Missouri House as the 'Producer Responsibility Program for Statewide Recycling Act'",
-      "May 15, 2026: Bill referred to House Emerging Issues Committee \u2014 last recorded action",
-      "May 15, 2026: Missouri 2026 regular session adjourned sine die with bill stalled in committee"
+      "Feb 26, 2026: HB 3504 introduced in Missouri House \u2014 establishes Producer Responsibility Program for Statewide Recycling Act",
+      "May 15, 2026: Missouri 2026 regular session adjourned sine die; HB 3504 died in House Emerging Issues Committee without a vote"
     ],
     "sources": [
       {
-        "label": "LegiScan \u2013 Missouri HB3504 2026 Regular Session",
+        "label": "LegiScan \u2014 Missouri HB3504 (2026 Regular Session)",
         "url": "https://legiscan.com/MO/bill/HB3504/2026"
       },
       {
-        "label": "EY \u2013 US Packaging EPR in 2026: Costs and Compliance",
-        "url": "https://www.ey.com/en_us/insights/sustainability/us-packaging-epr-in-2026-costs-and-compliance"
-      },
-      {
-        "label": "Sustainable Packaging Coalition \u2013 EPR Guide to All Policies",
+        "label": "Sustainable Packaging Coalition \u2014 EPR Guide to All Policies (Missouri HB 3504 listing)",
         "url": "https://epr.sustainablepackaging.org/policies"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (May 2026)",
+        "label": "FEDA \u2014 Missouri, Rhode Island Weigh EPR Laws Targeting Packaging (Apr 20, 2026)",
+        "url": "https://www.feda.com/news/missouri-rhode-island-weigh-epr-laws-targeting-packaging"
+      },
+      {
+        "label": "EY \u2014 US Packaging EPR in 2026: Costs and Compliance",
+        "url": "https://www.ey.com/en_us/insights/sustainability/us-packaging-epr-in-2026-costs-and-compliance"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2014 Packaging Policy News (May 21, 2026)",
         "url": "https://sustainablepackaging.org/2026/05/21/packaging-policy-news/"
       },
       {
-        "label": "FEDA \u2013 Missouri, Rhode Island Weigh EPR Laws Targeting Packaging (April 2026)",
-        "url": "https://www.feda.com/news/missouri-rhode-island-weigh-epr-laws-targeting-packaging"
+        "label": "Missouri Press Association \u2014 2026 Missouri Legislative Session Ends",
+        "url": "https://mopress.com/stories/2026-missouri-legislative-session-ends,39747"
+      },
+      {
+        "label": "Proskauer Rose \u2014 The 2025 Guide to EPR Packaging Compliance",
+        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
       }
     ]
   },
@@ -919,14 +953,14 @@
     "abbr": "NE",
     "name": "Nebraska",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Nebraska LB 607 (EPR Data Collection Act, Minimum Recycled Content Act, and battery stewardship provisions) was introduced January 2025, reintroduced January 7, 2026, and indefinitely postponed on April 17, 2026. No EPR packaging law has passed in Nebraska.",
-    "status": "LB 607 was a broad omnibus bill covering EPR data collection for packaging, minimum recycled content requirements, and battery stewardship. It was reintroduced in the 2026 session but was indefinitely postponed on April 17, 2026, meaning it failed for the current session. Nebraska has no enacted EPR packaging law and no active pending packaging EPR bill as of mid-2026.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Nebraska LB 607 \u2014 introduced January 2025, reintroduced January 7, 2026 \u2014 was indefinitely postponed on April 17, 2026, and is now dead for the current legislative session.",
+    "status": "LB 607 contained the EPR Data Collection Act (requiring producers to report packaging recycling and management data to the state) and a Minimum Recycled Content Act. It was carried over from 2025 into the 2026 session but was indefinitely postponed on April 17, 2026, ending its legislative progression. No packaging EPR law has been enacted in Nebraska.",
     "milestones": [
-      "January 22, 2025: LB 607 introduced in Nebraska Legislature (109th session) covering EPR Data Collection Act, Minimum Recycled Content Act, and battery provisions",
-      "February 2025: Last legislative action on LB 607 in the 2025 session; bill did not advance",
-      "January 7, 2026: LB 607 reintroduced for the 2026 legislative session",
-      "April 17, 2026: LB 607 indefinitely postponed \u2014 bill failed for the session"
+      "January 2025: LB 607 introduced in 109th Legislature, heard by Natural Resources Committee in February 2025",
+      "February 2025: Last substantive legislative action in first session; bill stalled amid opposition from retail, beverage, and packaging industries",
+      "January 7, 2026: LB 607 reintroduced/carried over into 2026 session",
+      "April 17, 2026: LB 607 indefinitely postponed \u2014 bill failed, no packaging EPR law enacted"
     ],
     "sources": [
       {
@@ -934,24 +968,24 @@
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "LegiScan \u2013 Nebraska LB607 (2025-2026, 109th Legislature)",
+        "label": "LegiScan \u2013 Nebraska LB607 (109th Legislature, 2025-2026)",
         "url": "https://legiscan.com/NE/bill/LB607/2025"
+      },
+      {
+        "label": "Bergeson & Campbell \u2013 A Snapshot of EPR in 2025 (Dec 2025)",
+        "url": "https://www.lawbc.com/a-snapshot-of-extended-producer-responsibility-in-2025/"
+      },
+      {
+        "label": "PPAI \u2013 10 States to Watch for New Packaging EPR Laws in 2026 (Feb 2026)",
+        "url": "https://www.ppai.org/media-hub/10-states-to-watch-for-new-packaging-epr-laws-in-2026/"
       },
       {
         "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (July 2026)",
         "url": "https://sustainablepackaging.org/2026/07/29/packaging-policy-news/"
       },
       {
-        "label": "Bergeson & Campbell \u2013 Snapshot of EPR in 2025 (December 2025)",
-        "url": "https://www.lawbc.com/a-snapshot-of-extended-producer-responsibility-in-2025/"
-      },
-      {
-        "label": "Nebraska Legislature \u2013 LB 607 Fiscal Note (Official)",
-        "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/FN/LB607_20250226-115352.pdf"
-      },
-      {
-        "label": "PPAI \u2013 10 States to Watch for Packaging EPR in 2026 (February 2026)",
-        "url": "https://www.ppai.org/media-hub/10-states-to-watch-for-new-packaging-epr-laws-in-2026/"
+        "label": "EY \u2013 US Packaging EPR in 2026: Costs and Compliance (June 2026)",
+        "url": "https://www.ey.com/en_us/insights/sustainability/us-packaging-epr-in-2026-costs-and-compliance"
       }
     ]
   },
@@ -959,37 +993,33 @@
     "abbr": "NH",
     "name": "New Hampshire",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "New Hampshire HB 1789-FN, an EPR packaging bill introduced January 7, 2026, was voted 'Inexpedient to Legislate' by the House on February 19, 2026. No EPR packaging law has passed in New Hampshire.",
-    "status": "HB 1789-FN would have established a producer-funded packaging reduction and recycling program covering all packaging materials (paper, plastic, glass, metal, and multi-material), requiring producers to pay stewardship fees based on the quantity and type of packaging sold into New Hampshire. The House adopted the 'Inexpedient to Legislate' motion by voice vote on February 19, 2026, effectively killing the bill. This follows the same outcome as the prior-session bill HB 1630, which was also voted down in February 2024.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "New Hampshire HB 1789-FN, an EPR packaging bill introduced January 7, 2026, was voted 'inexpedient to legislate' by the House on February 19, 2026, effectively killing the bill for this session. No EPR packaging law has been enacted in New Hampshire.",
+    "status": "HB 1789-FN was introduced to the New Hampshire House of Representatives on January 7, 2026 and would have established a packaging reduction program requiring producers selling into the state to pay stewardship fees based on quantity and type of packaging used, covering all material types including paper, plastic, glass, metal, and multi-material packaging. On February 19, 2026, the House adopted a motion to deem the bill 'inexpedient to legislate,' formally ending its progress for this legislative session. No successor or replacement bill has been confirmed as of the current date; possible future reintroduction is noted by trackers but no new bill has been filed.",
     "milestones": [
-      "January 7, 2026: HB 1789-FN introduced in the New Hampshire House of Representatives",
-      "February 19, 2026: House adopts 'Inexpedient to Legislate' motion by voice vote \u2014 bill dies"
+      "Jan 7, 2026: HB 1789-FN introduced in NH House of Representatives",
+      "Feb 19, 2026: House adopted 'inexpedient to legislate' motion \u2014 bill defeated for 2026 session"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose LLP \u2013 EPR Packaging Law Update (July 1, 2026)",
-        "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
-      },
-      {
-        "label": "Ropes & Gray \u2013 Ten Recent US Packaging EPR Developments (February 24, 2026)",
+        "label": "Ropes & Gray \u2013 Ten Recent US Packaging EPR Developments",
         "url": "https://www.ropesgray.com/en/insights/viewpoints/102mk4f/ten-recent-us-packaging-epr-developments-for-legal-and-compliance-professionals"
       },
       {
-        "label": "DLA Piper \u2013 Horizon: News and Trends in Sustainability Law, February 2026",
-        "url": "https://www.dlapiper.com/en-us/insights/publications/horizon/2026/horizon-news-and-trends-in-sustainability-law-february-2026"
+        "label": "Sustainable Packaging Coalition \u2013 EPR Guide (Policy Tracker)",
+        "url": "https://epr.sustainablepackaging.org/policies"
       },
       {
-        "label": "LegiScan \u2013 New Hampshire HB1789 2026 Regular Session (official bill text and status)",
-        "url": "https://legiscan.com/NH/text/HB1789/id/3291777"
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (Apr 2026)",
+        "url": "https://sustainablepackaging.org/2026/04/29/packaging-policy-news/"
       },
       {
-        "label": "Holland & Knight \u2013 The Latest Pandora's Box: What You Need to Know Now About State EPR Laws (January 22, 2026)",
+        "label": "Holland & Knight \u2013 The Latest Pandora's Box: State EPR Laws (Jan 2026)",
         "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy News (May 21, 2026)",
-        "url": "https://sustainablepackaging.org/2026/05/21/packaging-policy-news/"
+        "label": "LegiScan \u2013 NH HB1789 2026 Regular Session",
+        "url": "https://legiscan.com/NH/text/HB1789/id/3291777"
       }
     ]
   },
@@ -997,54 +1027,66 @@
     "abbr": "TN",
     "name": "Tennessee",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Tennessee SB 0269 / HB 0600 (Tennessee Waste to Jobs Act), a packaging EPR bill introduced in January 2025, was sidelined in the Senate Energy, Agriculture and Natural Resources Committee on March 11, 2026 and died when the 114th General Assembly adjourned sine die on April 23, 2026. No EPR packaging law has been enacted in Tennessee.",
-    "status": "SB 0269 / HB 0600 was introduced January 23, 2025 by Sen. Heidi Campbell (D) and Rep. Bob Freeman (D), amended in early 2026 to add small-business (under $10M revenue) and small-county (under 200,000 residents) opt-outs, and attracted Republican co-sponsors. On March 11, 2026 it was passed over in the Senate Energy, Agriculture and Natural Resources Committee and the House companion was taken off notice March 18, 2026; both bills died at session adjournment April 23\u201324, 2026. Sponsor Campbell has publicly committed to reintroducing the bill in the 2027 session with a more intensive public campaign.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Tennessee SB 0269 / HB 600 (Tennessee Waste to Jobs Act) \u2014 packaging EPR bill introduced January 2025, amended in early 2026, sidelined in committee March 2026, and declared dead on April 24, 2026 at end of the 114th General Assembly session. No law enacted. Sponsor has committed to reintroduction in 2027.",
+    "status": "SB 0269 / HB 600 failed to advance out of the Senate Energy, Agriculture and Natural Resources Committee on March 11, 2026, and the bill was formally marked dead on April 24, 2026 when the 114th General Assembly adjourned. The bill would have required producers of packaging materials \u2014 including all covered packaging formats \u2014 to join a Producer Responsibility Organization and fund recycling programs, with exemptions for businesses under $10M in annual revenue and counties under 200,000 residents. Sponsor Sen. Heidi Campbell has vowed to reintroduce in 2027; per SPC, Tennessee's bill will need to be fully reintroduced in the new session as it does not carry over.",
     "milestones": [
-      "Jan 23, 2025 \u2013 SB 0269 / HB 0600 introduced in 114th General Assembly",
-      "Feb 2025 \u2013 Action deferred in Senate Government Operations Committee to 2026 session",
-      "Early 2026 \u2013 Bill amended to add small-business and small-county opt-out provisions; gained Republican co-sponsors",
-      "Mar 11, 2026 \u2013 Senate Government Operations Committee recommended passage (8-1), then referred to Senate Energy, Ag. & Natural Resources Committee, where bill was passed over (sidelined)",
-      "Mar 18, 2026 \u2013 House companion HB 0600 taken off notice in Agriculture & Natural Resources Subcommittee",
-      "Apr 23\u201324, 2026 \u2013 114th General Assembly adjourned sine die; SB 0269 / HB 0600 officially dead",
-      "Post-session \u2013 Sponsor vows reintroduction in 2027 with expanded public outreach campaign"
+      "Jan 23, 2025: SB 0269 / HB 600 introduced in 114th General Assembly by Sen. Heidi Campbell and Rep. Bob Freeman",
+      "Feb 2025: Senate action deferred to 2026 session",
+      "Early 2026: Bill amended to add small business (<$10M revenue) and small county (<200K residents) opt-out exemptions; Republican co-sponsors added",
+      "Mar 11, 2026: Senate Government Operations Committee passed bill 8-1; immediately referred to Senate Energy, Agriculture and Natural Resources Committee, where it was passed over and sidelined",
+      "Mar 12, 2026: House companion HB 0600 taken off notice in Agriculture and Natural Resources subcommittee",
+      "Apr 24, 2026: SB 0269 formally marked dead at end of 114th General Assembly session",
+      "Sponsor committed to reintroduction in 2027 session with more intensive public campaign"
     ],
     "sources": [
       {
-        "label": "LegiScan \u2013 TN SB0269 (114th General Assembly)",
+        "label": "LegiScan \u2014 TN SB0269 (114th General Assembly)",
         "url": "https://legiscan.com/TN/bill/SB0269/2025"
       },
       {
-        "label": "LegiScan \u2013 TN HB0600 (114th General Assembly)",
-        "url": "https://legiscan.com/TN/bill/HB0600/2025"
+        "label": "Tennessee General Assembly \u2014 SB0269 Bill Page",
+        "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0269&ga=114"
       },
       {
-        "label": "Waste Dive \u2013 Tennessee packaging EPR bill sidelined for 2026 (Mar 12, 2026)",
-        "url": "https://www.wastedive.com/news/tennessee-waste-to-jobs-packaging-epr-sidelined-2026/814570/"
+        "label": "Tennessee General Assembly \u2014 SB0269 Fiscal Note (capitol.tn.gov)",
+        "url": "https://www.capitol.tn.gov/Bills/114/Fiscal/SB0269.pdf"
       },
       {
-        "label": "Packaging Dive \u2013 Tennessee packaging EPR bill sidelined for 2026 (Mar 12, 2026)",
+        "label": "Packaging Dive \u2014 Tennessee packaging EPR bill sidelined for 2026 (Mar 12, 2026)",
         "url": "https://www.packagingdive.com/news/tennessee-waste-to-jobs-packaging-epr-sidelined-2026/814510/"
       },
       {
-        "label": "Packaging Dive \u2013 Tennessee packaging EPR bill revamped with small business, county exemptions (Feb 10, 2026)",
+        "label": "Waste Dive \u2014 Tennessee packaging EPR bill sidelined for 2026 (Mar 12, 2026)",
+        "url": "https://www.wastedive.com/news/tennessee-waste-to-jobs-packaging-epr-sidelined-2026/814570/"
+      },
+      {
+        "label": "Packaging Dive \u2014 Tennessee EPR bill revamped with small business, county exemptions (Feb 10, 2026)",
         "url": "https://www.packagingdive.com/news/tennessee-packaging-epr-waste-to-jobs-campbell/811847/"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (Jul 29, 2026)",
-        "url": "https://sustainablepackaging.org/2026/07/29/packaging-policy-news/"
+        "label": "Waste Dive \u2014 Tennessee EPR bill revamped with small business, county exemptions (Feb 10, 2026)",
+        "url": "https://www.wastedive.com/news/tennessee-extended-producer-responsibility-packaging-landfill/811813/"
       },
       {
-        "label": "Tennessee Lookout \u2013 Tennessee legislature once again looks at recycling bills (Jan 26, 2026)",
+        "label": "Tennessee Lookout \u2014 With landfills filling up, Tennessee legislature looks at recycling bills (Jan 26, 2026)",
         "url": "https://tennesseelookout.com/2026/01/26/with-landfills-filling-up-tennessee-legislature-once-again-looks-at-recycling-bills/"
       },
       {
-        "label": "Tennessee Lookout \u2013 Bill boosting Tennessee's matchmaker role for recycling advances (Mar 12, 2026)",
-        "url": "https://tennesseelookout.com/2026/03/12/bill-boosting-tennessees-matchmaker-role-for-recycling-programs-and-private-buyers-advances/"
+        "label": "Sustainable Packaging Coalition \u2014 Packaging Policy Roundup (Jun 22, 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
       },
       {
-        "label": "BillTrack50 \u2013 TN SB0269",
-        "url": "https://www.billtrack50.com/billdetail/1800052"
+        "label": "Bass Berry & Sims \u2014 2026 Legislative Recap, 114th Tennessee General Assembly",
+        "url": "https://bassberry.com/news/2026-legislative-recap-114th-tennessee-general-assembly-second-session/"
+      },
+      {
+        "label": "Tennessee Chamber of Commerce \u2014 Understanding concerns surrounding SB0269 (Mar 2026)",
+        "url": "https://tnchamber.org/understanding-the-economic-and-regulatory-concerns-surrounding-sb0269/"
+      },
+      {
+        "label": "News From The States \u2014 Bill boosting Tennessee matchmaker role for recycling advances (Mar 12, 2026)",
+        "url": "https://www.newsfromthestates.com/article/bill-boosting-tennessees-matchmaker-role-recycling-programs-and-private-buyers-advances"
       }
     ]
   },
@@ -1098,29 +1140,43 @@
     "abbr": "VT",
     "name": "Vermont",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Vermont S.139 (2025-2026 session), 'An act relating to the management of materials from packaging,' was introduced April 2, 2025, and referred to the Senate Committee on Natural Resources and Energy, where it did not advance out of committee.",
-    "status": "S.139 would have required a needs assessment on the management of packaging materials distributed in Vermont \u2014 covering reuse, recyclability, safety, toxicity reduction, and quantity \u2014 including all packaging types such as film, bags, and other forms. The bill was referred to the Senate Committee on Natural Resources and Energy on April 2, 2025, but failed to advance out of committee by end of the 2025 portion of the session. Vermont is identified as a state that could attempt a renewed packaging EPR effort in 2027 or 2028.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Vermont S.139 (2025-2026 session), 'An act relating to the management of materials from packaging,' was introduced April 2, 2025 and died in the Senate Committee on Natural Resources and Energy without advancing. No packaging EPR law has passed, and no new packaging EPR bill is currently active in the Vermont legislature.",
+    "status": "S.139 would have required a needs assessment on the management of packaging materials distributed in Vermont, covering opportunities to improve reuse, recyclability, safety, and reduction of packaging toxicity and quantity. The bill stalled in committee and did not advance. Vermont is viewed as a state that could reintroduce packaging EPR legislation in 2027 or 2028, but any future bill will need to be newly introduced.",
     "milestones": [
-      "April 2, 2025: S.139 introduced and referred to Senate Committee on Natural Resources and Energy",
-      "2025 session close: S.139 failed to advance out of committee; no enacted packaging EPR law in Vermont"
+      "S.139 introduced April 2, 2025, referred to Senate Committee on Natural Resources and Energy",
+      "S.139 died in committee; did not advance out of the 2025 legislative year",
+      "No new packaging EPR bill introduced in the 2026 portion of the 2025-2026 session",
+      "Vermont DEC urged caution about new large EPR programs while implementing existing ones"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose LLP \u2013 EPR Packaging Law Update (July 1, 2026)",
+        "label": "Proskauer \u2013 EPR Packaging Law Update (July 2026)",
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "Vermont Legislature \u2013 Bill Status S.139 (2025-2026 Session)",
+        "label": "Vermont General Assembly \u2013 S.139 Bill Status (2025-2026 Session)",
         "url": "https://legislature.vermont.gov/bill/status/2026/S.139"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (July 29, 2026)",
-        "url": "https://sustainablepackaging.org/2026/07/29/packaging-policy-news/"
+        "label": "Vermont General Assembly \u2013 S.139 Senate Journal Entry (April 2, 2025)",
+        "url": "https://legislature.vermont.gov/Documents/2026/Docs/JOURNAL/sj250402.pdf"
       },
       {
-        "label": "Vermont Department of Environmental Conservation \u2013 Product Stewardship",
+        "label": "Vermont General Assembly \u2013 2025 Senate Appendix B (Table of Bills)",
+        "url": "https://legislature.vermont.gov/assets/All-Senate-Documents/2025-Permanent-Journal-Files/2025-Appendix-B-FINAL.PDF"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "Vermont DEC \u2013 Product Stewardship",
         "url": "https://dec.vermont.gov/waste-management/solid/product-stewardship"
+      },
+      {
+        "label": "VPIRG \u2013 2025 Legislative End of Session Update",
+        "url": "https://www.vpirg.org/news/2025-legislative-end-of-session-update/"
       }
     ]
   },
@@ -1128,31 +1184,39 @@
     "abbr": "VA",
     "name": "Virginia",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Virginia has no enacted EPR packaging law. At least one packaging EPR bill (covering all packaging types, including films, bags, and paper) is pending and will carry over from the 2026 legislative session into 2027 without requiring full reintroduction.",
-    "status": "Virginia remains in the pre-enactment category alongside New Jersey as one of only two states whose packaging EPR bill carries over automatically to the 2027 session, rather than expiring at session end. Multiple sources from January\u2013July 2026 confirm Virginia has a pending proposal but no enacted law. No specific bill number has been confirmed by allowable sources with sufficient confidence to cite.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Virginia has a packaging EPR bill pending that carried over from the 2026 legislative session to 2027; no packaging EPR law has been enacted.",
+    "status": "Virginia's 2026 General Assembly session concluded in mid-March 2026 without passing packaging EPR legislation. The bill is one of only two states (alongside New Jersey) whose packaging EPR bill carries over to the 2027 session rather than requiring full reintroduction. Holland & Knight (January 2026) identified Virginia as a state with a pending proposal from a prior legislative session. Virginia's governor also vetoed HB 86, a mattress stewardship EPR bill, in April 2026, signaling executive skepticism toward EPR-style fee mandates in the current political environment.",
     "milestones": [
-      "Prior packaging EPR bills (HB 647, HB 709, HB 918) introduced in 2022 Regular Session; none enacted",
-      "Virginia identified by Holland & Knight (Jan 2026) and SPC (Jun\u2013Jul 2026) as having a pending proposal that could be reintroduced",
-      "SPC confirmed (June and July 2026) that Virginia's bill carries over to 2027, unlike most other states where bills expire at session end",
-      "No enactment or governor signature reported as of August 2026"
+      "2026 Virginia General Assembly session concluded mid-March 2026 without passing packaging EPR",
+      "Packaging EPR bill formally carried over to the 2027 session \u2014 one of only two states with this status (alongside New Jersey)",
+      "Governor Spanberger vetoed mattress EPR bill HB 86 (April 2026), citing fee mandate concerns \u2014 separate product category but relevant to executive posture on EPR",
+      "Virginia's EPR commission previously recommended further study of packaging EPR, per Waste Dive reporting"
     ],
     "sources": [
-      {
-        "label": "Holland & Knight \u2013 State EPR Laws Alert (Jan 2026)",
-        "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
-      },
       {
         "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
         "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (July 2026)",
-        "url": "https://sustainablepackaging.org/2026/07/29/packaging-policy-news/"
+        "label": "Holland & Knight \u2013 The Latest Pandora's Box: What You Need to Know Now About State EPR Laws (January 2026)",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 EPR Guide to All Policies",
-        "url": "https://epr.sustainablepackaging.org/policies"
+        "label": "Virginia Mercury \u2013 Uptick in Continued Va. General Assembly Legislation (April 2026)",
+        "url": "https://virginiamercury.com/2026/04/15/uptick-in-continued-va-general-assembly-legislation-reflects-varied-motivations/"
+      },
+      {
+        "label": "Office of Governor Spanberger \u2013 Veto Statement, HB 86 (April 2026)",
+        "url": "https://www.governor.virginia.gov/newsroom/news-releases/2026/april-releases/name-1116393-en.html"
+      },
+      {
+        "label": "Waste Dive \u2013 Virginia Gov. Spanberger Vetoes Mattress Recycling Bill (April 2026)",
+        "url": "https://www.wastedive.com/news/vvirginia-governor-vetoes-mattress-stewardship-fee-mandate-illegal-dumping/817408/"
+      },
+      {
+        "label": "Virginia Conservation Network \u2013 Bill of the Day: Extended Producer Responsibility (updated May 2026)",
+        "url": "https://vcnva.org/bill-of-the-day-extended-producer-responsibility/"
       }
     ]
   },
@@ -1160,41 +1224,206 @@
     "abbr": "WI",
     "name": "Wisconsin",
     "stage": "pending",
-    "lastUpdated": "2026-08-20",
-    "lawPassed": "Wisconsin companion EPR packaging bills AB 772 and SB 778 were introduced in December 2025 and failed to advance before the legislative session deadline in March 2026; no EPR packaging law has been enacted in Wisconsin.",
-    "status": "AB 772 (Assembly) and SB 778 (Senate) \u2014 identical bills creating a packaging reduction and recycling producer responsibility program administered by the Wisconsin DNR \u2014 were introduced December 17, 2025, referred to committee, but both failed to pass before the March 2026 session deadline and would need to be reintroduced to move forward. The bills' primary sponsor acknowledged advancement was not expected this session. Wisconsin has no enacted EPR packaging law as of today.",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Wisconsin AB 772 and companion SB 778 \u2014 packaging EPR bills introduced in December 2025 \u2014 failed to pass before the March 2026 legislative session deadline and are now dead for this session; reintroduction expected in 2027.",
+    "status": "Companion bills AB 772 (Assembly) and SB 778 (Senate) were introduced in December 2025 and referred to their respective committees, but neither advanced before the Wisconsin legislature's March 2026 session deadline. Both bills are now effectively expired for the 2025-2026 session and would need to be reintroduced in a future session to move forward. The primary Assembly sponsor, Rep. Snodgrass, has publicly acknowledged the bills will not pass this session but intends to reintroduce them.",
     "milestones": [
-      "December 17, 2025: AB 772 introduced in Assembly (referred to Committee on Environment); companion SB 778 introduced in Senate (referred to Committee on Natural Resources, Veteran and Military Affairs)",
-      "March 23, 2026: AB 772 died at end of legislative deadline; SB 778 also failed to advance \u2014 both bills would require reintroduction to proceed"
+      "December 12, 2025: SB 778 introduced in Senate, referred to Committee on Natural Resources, Veteran and Military Affairs",
+      "December 17, 2025: AB 772 introduced in Assembly, referred to Committee on Environment",
+      "March 2026: Both bills failed to advance before session deadline; session closed without passage",
+      "Post-session: Sponsor confirmed intent to reintroduce in a future legislative session (2027)"
     ],
     "sources": [
       {
-        "label": "Proskauer Rose \u2013 EPR Packaging Law Update (July 1, 2026)",
+        "label": "Wisconsin Legislature \u2013 AB 772 Bill Page (official)",
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/ab772"
+      },
+      {
+        "label": "Wisconsin Legislature \u2013 SB 778 Bill Page (official)",
+        "url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb778"
+      },
+      {
+        "label": "Wisconsin Legislature \u2013 SB 778 Full Bill Text (PDF, official)",
+        "url": "https://docs.legis.wisconsin.gov/2025/related/proposals/sb778.pdf"
+      },
+      {
+        "label": "Proskauer Rose \u2013 EPR Packaging Law Update (July 2026)",
         "url": "https://www.proskauer.com/alert/extended-producer-responsibility-packaging-law-update"
       },
       {
-        "label": "Wisconsin Legislature \u2013 AB 772 Bill Text (official)",
-        "url": "https://docs.legis.wisconsin.gov/2025/related/proposals/ab772"
-      },
-      {
-        "label": "Wisconsin Legislature \u2013 SB 778 Bill Text (official)",
-        "url": "https://docs.legis.wisconsin.gov/2025/proposals/sb778"
-      },
-      {
-        "label": "Holland & Knight \u2013 State EPR Laws Update (January 2026)",
+        "label": "Holland & Knight \u2013 The Latest Pandora's Box: State EPR Laws (January 2026)",
         "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
       },
       {
-        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Guide (AB 772 / SB 778 listed as Introduced)",
-        "url": "https://epr.sustainablepackaging.org/policies"
+        "label": "Ropes & Gray \u2013 Ten Recent US Packaging EPR Developments (June 2026)",
+        "url": "https://www.ropesgray.com/en/insights/viewpoints/102mk4f/ten-recent-us-packaging-epr-developments-for-legal-and-compliance-professionals"
       },
       {
-        "label": "CSG Midwest \u2013 EPR for Packaging in the Midwest (March 2026)",
-        "url": "https://csgmidwest.org/2026/03/11/most-states-have-some-type-of-extended-producer-responsibility-statute-minnesota-is-implementing-one-new-to-the-midwest-epr-for-packaging/"
+        "label": "Sustainable Packaging Coalition \u2013 EPR Policy Guide (AB 772 / SB 778 tracker)",
+        "url": "https://epr.sustainablepackaging.org/policies"
       },
       {
         "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
         "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "CSG Midwest \u2013 EPR for Packaging in the Midwest (March 2026)",
+        "url": "https://csgmidwest.org/2026/03/11/most-states-have-some-type-of-extended-producer-responsibility-statute-minnesota-is-implementing-one-new-to-the-midwest-epr-for-packaging/"
+      }
+    ]
+  },
+  {
+    "abbr": "AK",
+    "name": "Alaska",
+    "stage": "pending",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Alaska HB 25 (Disposable Food Service Ware) passed both chambers of the 34th Legislature with bipartisan support but was vetoed by Governor Mike Dunleavy on June 24\u201325, 2026. No veto override was pursued. No EPR packaging law of any kind is in effect in Alaska. The 34th Legislature has adjourned; any future bill must be reintroduced in the 35th Legislature (2027).",
+    "status": "HB 25 would have banned single-use polystyrene foam foodware in restaurants and state agency operations starting January 1, 2027. It passed the House 25\u201315 and the Senate 13\u20137, but the combined vote of 38\u201322 fell short of the 40 needed for a veto override. Governor Dunleavy cited the bill's 2027 effective date as creating an unrealistic implementation timeline. No broader EPR packaging bill covering films, bags, or other packaging materials was introduced or advanced in Alaska during the 2025\u20132026 legislative session.",
+    "milestones": [
+      "January 22, 2025 \u2013 HB 25 introduced in the Alaska House (34th Legislature)",
+      "April 21, 2026 \u2013 HB 25 passed Alaska House, 25\u201315",
+      "May 18, 2026 \u2013 HB 25 passed Alaska Senate, 13\u20137",
+      "June 12, 2026 \u2013 HB 25 enrolled and transmitted to Governor",
+      "June 24\u201325, 2026 \u2013 Governor Dunleavy vetoed HB 25",
+      "No veto override attempted; bill is dead",
+      "34th Legislature adjourned sine die; all remaining bills must be reintroduced in 2027"
+    ],
+    "sources": [
+      {
+        "label": "Alaska State Legislature \u2013 HB 25 Bill Detail (official)",
+        "url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB++25"
+      },
+      {
+        "label": "Resource Recycling \u2013 Alaska governor vetoes polystyrene foam foodware ban (June 26, 2026)",
+        "url": "https://resource-recycling.com/policy-now/2026/06/26/alaska-governor-vetoes-polystyrene-foam-foodware-ban/"
+      },
+      {
+        "label": "Alaska Beacon \u2013 Alaska lawmakers approve ban on polystyrene foam food containers (May 20, 2026)",
+        "url": "https://alaskabeacon.com/2026/05/20/alaska-lawmakers-approve-ban-on-polystyrene-foam-food-containers/"
+      },
+      {
+        "label": "Alaska Public Media \u2013 Dozens of Alaska bills meet their fate at Gov. Dunleavy's desk (June 26, 2026)",
+        "url": "https://alaskapublic.org/news/politics/alaska-legislature/2026-06-26/dozens-of-alaska-bills-meet-their-fate-at-gov-dunleavys-desk"
+      },
+      {
+        "label": "Juneau Independent \u2013 Ban on polystyrene food containers nears final passage (May 18, 2026)",
+        "url": "https://www.juneauindependent.com/post/ban-on-polystyrene-food-containers-passes-legislature"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 EPR Packaging Policy Roundup (June 22, 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "Holland & Knight \u2013 The Latest Pandora's Box: What You Need to Know Now About State EPR Laws (January 2026)",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
+      }
+    ]
+  },
+  {
+    "abbr": "FL",
+    "name": "Florida",
+    "stage": "pending",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Florida has no EPR packaging law passed or pending. The 2026 legislative session (January 13 \u2013 March 13, 2026) adjourned without introducing or advancing any EPR packaging bill. HB 6225 (stand-alone EPR bill from a prior session) stalled in committee and has not been reintroduced. The state actively opposes EPR-related industry coordination: Florida AG Uthmeier led a multistate coalition sending antitrust warning letters in October 2025 to the Sustainable Packaging Coalition and Consumer Goods Forum, and follow-up letters to nearly 80 corporations in February 2026.",
+    "status": "Florida's 2026 regular legislative session ended March 13, 2026 with no EPR packaging bill introduced or advanced. The state also maintains preemption laws that prevent local governments from independently regulating most single-use plastics and packaging. Florida's Attorney General has taken an affirmatively hostile posture toward EPR-aligned industry groups, issuing antitrust civil investigative demands against the Sustainable Packaging Coalition and U.S. Plastics Pact and warning corporations against participation in those organizations.",
+    "milestones": [
+      "2025 session: HB 6917 (solid-waste omnibus with EPR study) passed the Florida House but died on the Senate calendar; HB 6225 (stand-alone EPR bill) referred to committee and stalled, not reintroduced in 2026",
+      "October 29, 2025: Florida AG Uthmeier led five-state coalition sending antitrust warning letters to Sustainable Packaging Coalition and Consumer Goods Forum",
+      "February 2026: AG Uthmeier expanded coalition to ten states, sent letters to ~80 corporations warning that participation in EPR-aligned groups may violate antitrust and consumer protection laws",
+      "March 13, 2026: Florida 2026 regular legislative session adjourned sine die with no EPR packaging legislation introduced or passed",
+      "State preemption laws remain in effect, blocking local governments from independently banning or restricting most single-use plastics and bags"
+    ],
+    "sources": [
+      {
+        "label": "Assent \u2013 U.S. EPR Packaging Laws by State (Feb 2026)",
+        "url": "https://www.assent.com/blog/us-epr-packaging-laws-by-state/"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (May 2026)",
+        "url": "https://sustainablepackaging.org/2026/05/21/packaging-policy-news/"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "Mayer Brown \u2013 EPR Packaging Laws Moving from Concept to Compliance (Feb 2026)",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
+      },
+      {
+        "label": "Proskauer \u2013 Seven States and Counting: 2025 Guide to EPR Packaging Compliance (Oct 2025)",
+        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
+      },
+      {
+        "label": "Florida AG Office \u2013 Letter re: Sustainable Packaging Coalition Antitrust Concerns (Oct 29, 2025)",
+        "url": "https://www.myfloridalegal.com/sites/default/files/sustainable-packaging-coalition-002-cas_0.pdf"
+      },
+      {
+        "label": "Florida AG Office \u2013 Multi-State Coalition Press Release (Feb 2026)",
+        "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-leads-multi-state-coalition-putting-corporations-notice"
+      },
+      {
+        "label": "CBS12 \u2013 Florida AG Warns Corporations Over Environmental Group Ties (Feb 2026)",
+        "url": "https://cbs12.com/news/local/florida-attorney-general-warns-corporations-plastics-packaging-recycle-competition-ties-to-environmental-groups"
+      },
+      {
+        "label": "Plastic Free Florida \u2013 2026 Legislative Session Summary",
+        "url": "https://plasticfreefl.org/state/"
+      },
+      {
+        "label": "Florida Senate \u2013 2026 Bill Summaries",
+        "url": "https://www.flsenate.gov/Committees/BillSummaries/2026"
+      },
+      {
+        "label": "LegiScan \u2013 Florida Legislature 2026 Regular Session",
+        "url": "https://legiscan.com/FL"
+      }
+    ]
+  },
+  {
+    "abbr": "OK",
+    "name": "Oklahoma",
+    "stage": "pending",
+    "lastUpdated": "2026-09-17",
+    "lawPassed": "Oklahoma HB 4068 (2026), an environmental marketing claims/greenwashing bill covering product and packaging labels, was introduced in February 2026 but died in committee without a vote before the legislative session ended May 29, 2026. No EPR packaging law has been introduced or passed in Oklahoma.",
+    "status": "Oklahoma HB 4068 would have prohibited use of recycling symbols or environmental benefit claims (recyclable, compostable, biodegradable, carbon neutral, eco-friendly, etc.) on products and packaging unless substantiated against defined criteria, with civil penalties up to $2,500. The bill remained in committee for at least three weeks with no formal votes called and did not advance before the 2026 session adjourned sine die. Oklahoma has no enacted or pending EPR packaging law requiring producer registration, fees, or a Producer Responsibility Organization.",
+    "milestones": [
+      "February 2026: Oklahoma HB 4068 introduced, targeting greenwashing and recyclability claims on products and packaging",
+      "May 29, 2026: Oklahoma 2026 legislative session ended; HB 4068 died in committee without a floor vote",
+      "Oklahoma not among any list of states with enacted or actively advancing EPR packaging legislation as of mid-2026"
+    ],
+    "sources": [
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (June 2026)",
+        "url": "https://sustainablepackaging.org/2026/06/22/packaging-policy-news/"
+      },
+      {
+        "label": "Sustainable Packaging Coalition \u2013 Packaging Policy Roundup (April/May 2026)",
+        "url": "https://sustainablepackaging.org/2026/05/21/packaging-policy-news/"
+      },
+      {
+        "label": "Compliance & Risks \u2013 Environmental Claims Under Scrutiny: U.S. Packaging Labelling Laws Explained",
+        "url": "https://www.complianceandrisks.com/blog/environmental-claims-under-scrutiny-u-s-packaging-labelling-laws-explained/"
+      },
+      {
+        "label": "Oklahoma Legislature \u2013 HB 4068 Bill Text (introduced)",
+        "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB4068%20INT.PDF"
+      },
+      {
+        "label": "Oklahoma Legislature \u2013 SB 1471 Bill Text (introduced)",
+        "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB1471%20INT.PDF"
+      },
+      {
+        "label": "Proskauer \u2013 Seven States and Counting: The 2025 Guide to EPR Packaging Compliance",
+        "url": "https://www.proskauer.com/alert/the-2025-guide-to-epr-packaging-compliance"
+      },
+      {
+        "label": "Holland & Knight \u2013 The Latest Pandora's Box: What You Need to Know Now About State EPR Laws",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/01/the-latest-pandoras-box-what-you-need-to-know-now-about-state-epr-laws"
+      },
+      {
+        "label": "Mayer Brown \u2013 EPR Packaging Laws Moving from Concept to Compliance",
+        "url": "https://www.mayerbrown.com/en/insights/publications/2026/02/epr-packaging-laws-moving-from-concept-to-compliance"
       }
     ]
   }
