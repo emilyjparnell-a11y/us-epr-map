@@ -1,29 +1,26 @@
 EPR Detection Summary - review suggested_updates.csv for full details
 
-- California: Final SB 54 regulations were approved by the California Office of Administrative Law on May 1, 2026 and became immediately effective, triggering produ
-- Colorado: HB22-1355 entered full implementation on June 9, 2026, with producer dues active since January 2026 and CY2025 annual supply reports due May 31, 2026.
-- Connecticut: In the 2026 legislative session, Connecticut HB 5151 — which would have required the state to develop recommendations on EPR programs for consumer pac
-- Delaware: SB 287 passed the Delaware Senate 20-0 on June 16, 2026, and the House 41-0 on June 30, 2026, and was transmitted to Governor Matt Meyer on June 30, 2
-- Georgia: HB 1237 covered all covered packaging materials (including bags, film, paper, and other packaging types) and would have created Producer Responsibilit
-- Hawaii: HB 750 (signed May 27, 2025) is the operative Hawaii law: it directs the Department of Health to conduct a statewide needs assessment for a potential 
-- Illinois: Public Act 103-0383 requires Illinois EPA to complete a statewide recycling needs assessment covering packaging and paper products, with findings due 
-- Indiana: Indiana is among more than 30 states whose packaging-related bills failed to advance before their 2025 legislative sessions adjourned. As of August 20
-- Kentucky: KY HB 287 (2026), sponsored by Rep. Marzian, would have banned single-use plastic carryout bags by July 1, 2031, and banned single-use plastic straws 
-- Maine: Maine DEP issued its long-delayed Stewardship Organization RFP on June 15, 2026, with proposals due August 18, 2026; no electronic submissions were re
-- Maryland: Maryland SB 901 is fully enacted and in active implementation. The Maryland Department of the Environment adopted initial EPR regulations on May 5, 20
-- Michigan: HB 5902, introduced July 31, 2024, was referred to the House Committee on Natural Resources, Environment, Tourism and Outdoor Recreation and did not a
-- Minnesota: Active implementation is underway. The MPCA issued a notice of intent to develop implementing rules on May 15, 2026, with a public comment period on r
-- Missouri: HB 3504 would require producers of packaging and paper products to join or form a nonprofit Producer Responsibility Organization (PRO) to fund and man
-- Montana: Montana HB 477 would have created a five-year phaseout of EPS food containers used in restaurants and food establishments, covering roughly 7,500 esta
-- Nebraska: LB 607 was originally introduced in January 2025, carried over and reintroduced on January 7, 2026, then indefinitely postponed by the Nebraska Legisl
-- New Hampshire: HB 1789-FN would have established a packaging reduction program requiring producers to pay fees based on quantity and type of packaging, with reductio
-- New Jersey: S3398 and its Assembly companion A5009 died on January 12, 2026, when the 2024-2025 legislative session expired without a floor vote. On January 13, 2
-- New York: The 2026 New York legislative session ended without the Assembly voting on SB 1464A / A1749A. The bill had passed the Senate in 2024, 2025, and again 
-- North Carolina: HB 882, introduced April 9, 2025, would establish a comprehensive packaging EPR framework requiring producers to register with NCDEQ and join a Produc
-- Oklahoma: Oklahoma HB 4068 (introduced February 2026) would have prohibited unsubstantiated environmental claims — including recyclable, compostable, biodegrada
-- Rhode Island: H 6207, signed by Governor McKee on June 30, 2025, mandates a third-party statewide recycling and waste-management gap analysis with a needs assessmen
-- Tennessee: SB 0269 / HB 600 (Tennessee Waste to Jobs Act) was sidelined in March 2026 after failing to advance out of the Senate Energy, Agriculture and Natural 
-- Vermont: Vermont's broad packaging EPR bill S.139, which would have required a needs assessment covering packaging materials including opportunities to improve
-- Virginia: The 2026 Virginia General Assembly adjourned sine die on March 14, 2026 without passing an EPR packaging law. Virginia is one of only two states where
-- Washington: The law is in Phase 1 implementation. CAA is the designated PRO; producers were required to join by July 1, 2026. Ecology is conducting rulemaking, ha
-- Wisconsin: Companion bills AB 772 (Assembly) and SB 778 (Senate) were introduced December 12–17, 2025, and referred to their respective committees (Assembly Comm
+- Alaska: HB 25 would have banned single-use polystyrene foam foodware in restaurants and state agency operations starting January 1, 2027. It passed the House 
+- California: Permanent regulations took effect May 1, 2026, triggering immediate producer registration and reporting obligations. CAA submitted its draft Californi
+- Connecticut: Connecticut has no packaging EPR law and no enacted packaging EPR study mandate as of September 2026. The 2025 substitute HB 6917 passed the House una
+- Florida: Florida's 2026 regular legislative session ended March 13, 2026 with no EPR packaging bill introduced or advanced. The state also maintains preemption
+- Georgia: HB 1237 proposed a comprehensive EPR framework for packaging, paper products, and beverage containers sold or distributed in Georgia, including a Prod
+- Hawaii: HB 750 (Act 103) is enacted law; the Hawaii Department of Health began needs assessment work in July 2025 and the advisory council had its first forma
+- Illinois: HB 4064 is stalled in the House Rules Committee, with legislative movement effectively gated on the Statewide Recycling Needs Assessment report due De
+- Maine: Maine DEP published its Stewardship Organization RFP on June 15, 2026, but received no proposals by the August 18, 2026 deadline; Circular Action Alli
+- Maryland: The program is now in its active registration and early-compliance phase: implementing regulations took effect May 25, 2026, and CAA (the only current
+- Michigan: HB 5902, introduced July 31, 2024 by Rep. Abraham Aiyash (D) and referred to the House Committee on Natural Resources, Environment, Tourism and Outdoo
+- Minnesota: The law is in active implementation. The MPCA issued a notice of intent to develop rules on May 15, 2026 to clarify definitions, exemptions, collectio
+- Missouri: HB 3504 would have required producers of packaging and paper products — including all packaging materials — to join or form a nonprofit Producer Respo
+- Nebraska: LB 607 contained the EPR Data Collection Act (requiring producers to report packaging recycling and management data to the state) and a Minimum Recycl
+- New Hampshire: HB 1789-FN was introduced to the New Hampshire House of Representatives on January 7, 2026 and would have established a packaging reduction program re
+- New Jersey: S673 and companion A3744 were re-filed on January 13, 2026 as carry-overs of S3398 (which cleared the Senate Environment and Energy Committee in Febru
+- New York: The 2026 New York legislature adjourned in June 2026 without voting on SB 1464A / A1749A. The amended bill — which covers all packaging types includin
+- North Carolina: HB 882 was introduced on April 9, 2025, and referred to the House Rules, Calendar, and Operations Committee on April 10, 2025, where it has stalled. T
+- Oklahoma: Oklahoma HB 4068 would have prohibited use of recycling symbols or environmental benefit claims (recyclable, compostable, biodegradable, carbon neutra
+- Rhode Island: H 6207, signed by Gov. Dan McKee on June 30, 2025, mandates a third-party statewide recycling and waste-management gap analysis with the final needs a
+- Tennessee: SB 0269 / HB 600 failed to advance out of the Senate Energy, Agriculture and Natural Resources Committee on March 11, 2026, and the bill was formally 
+- Vermont: S.139 would have required a needs assessment on the management of packaging materials distributed in Vermont, covering opportunities to improve reuse,
+- Virginia: Virginia's 2026 General Assembly session concluded in mid-March 2026 without passing packaging EPR legislation. The bill is one of only two states (al
+- Washington: The law (codified as Chapter 70A.208 RCW) requires producers of covered packaging and paper products to join or form a Producer Responsibility Organiz
+- Wisconsin: Companion bills AB 772 (Assembly) and SB 778 (Senate) were introduced in December 2025 and referred to their respective committees, but neither advanc
